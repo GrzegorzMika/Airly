@@ -11,6 +11,6 @@ COPY secretgc.json /home/airly
 
 WORKDIR /home/airly
 
-RUN pip install -r /home/airly/requirements.txt
+RUN pip install -r requirements.txt
 
-CMD ["python", "/home/airly/Collect_data.py"]
+CMD ["python", "Collect_data.py"]
