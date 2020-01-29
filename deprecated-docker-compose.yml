@@ -1,0 +1,33 @@
+version: "2"
+
+services:
+    tasker:
+        image: strm/tasker
+        volumes:
+            - "/var/run/docker.sock:/var/run/docker.sock"
+        environment:
+            configuration: |
+                logging:
+                    level:
+                        ROOT: WARN
+                        org.springframework.web: WARN
+                        sh.strm: DEBUG
+                schedule:
+                    - cron: 01 00 00 * * *
+                      task: airly
+                    - cron: 00 00 02 * * 0
+                      task: airly_postprocess
+                tasks:
+                    docker:
+                        - name: airly
+                          image: airly:latest
+                          script:
+                              - python3 Collect_data.py
+                          volumes:
+                              - airly:/home/airly/data
+                        - name: airly_postprocess
+                          image: airly_postprocess:latest
+                          script:
+                              - python3 Data_postprocessing.py
+                          volumes:
+                              - airly:/home/airly/data
