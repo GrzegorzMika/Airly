@@ -3,3 +3,4 @@
 .RData
 .Ruserdata
 ./collect_data/Airly_API_key.txt
+./collect_data/secretgc.json
