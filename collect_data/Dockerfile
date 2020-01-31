@@ -7,10 +7,10 @@ COPY AirlyDownloader.py /home/airly/AirlyDownloader.py
 COPY Collect_data.py /home/airly/Collect_data.py
 COPY Airly_API_key.txt /home/airly/Airly_API_key.txt
 COPY requirements.txt /home/airly/requirements.txt
-COPY secretgc.json /home/data
+COPY secretgc.json /home/airly
 
 WORKDIR /home/airly
 
-RUN pip install -r /home/airly/requirements.txt
+RUN pip install -r requirements.txt
 
-CMD ["python", "/home/airly/Collect_data.py"]
+CMD ["python", "Collect_data.py"]
