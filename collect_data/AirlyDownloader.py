@@ -269,29 +269,6 @@ class AirlyDownloader:
         if filename is not None:
             data.to_csv(filename)
         return data
-    
-    def measurement_installation_id_full(self, installation_id, filename=None):
-        """
-        Wrapper function for functions measurement_installation_id_async_current,
-        measurement_installation_id_async_history and measurement_installation_id_async_forecast to retrieve
-        historical and forecasted measurements simulaneously for an installation with a given ID
-        :param installation_id: int representing installation ID
-        :param filename: if not none, string representing the (path + ) filename to save the info
-        :return: twp pandas DataFrame with the historical and forecasted measurement info
-        """
-        loop = asyncio.get_event_loop()
-        elif measurement_type == 'history':
-            data = loop.run_until_complete(self.__measurement_installation_id_async_history(installation_id))
-            # data = asyncio.run(self.__measurement_installation_id_async_history(installation_id))
-        elif measurement_type == 'forecast':
-            data = loop.run_until_complete(self.__measurement_installation_id_async_forecast(installation_id))
-            # data = asyncio.run(self.__measurement_installation_id_async_forecast(installation_id))
-        else:
-            raise Exception('Wrong type of measurement!')
-        data['installation_id'] = installation_id
-        if filename is not None:
-            data.to_csv(filename)
-        return data
 
     async def __measurement_nearest_async_current(self, latitude, longitude, max_distance_km):
         """
