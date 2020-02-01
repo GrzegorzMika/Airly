@@ -7,7 +7,7 @@ COPY AirlyDownloader.py /home/airly/AirlyDownloader.py
 COPY Collect_data.py /home/airly/Collect_data.py
 COPY Airly_API_key.txt /home/airly/Airly_API_key.txt
 COPY requirements.txt /home/airly/requirements.txt
-COPY secretgc.json /home/airly
+COPY secretgc.json /home/airly/secretgc.json
 
 WORKDIR /home/airly
 
