@@ -40,7 +40,7 @@ f.seek(0)
 for i in range(max_tries):
     try:
         time.sleep(load_break)
-        storage_client = storage.Client.from_service_account_json('/home/data/secretgc.json')
+        storage_client = storage.Client.from_service_account_json('/home/airly/secretgc.json')
         bucket = storage_client.bucket('airly_data')
         blob = bucket.blob(str(date.today()) + '.csv')
         blob.upload_from_file(f, content_type='text/csv')
