@@ -11,7 +11,8 @@ class AirlyDownloader:
     def __init__(self, key):
         self.key = key
 
-    def __extract_data_installation(self, installation):
+    @staticmethod
+    def __extract_data_installation(installation):
         """
         Function to collect infos for an installment in a robust way
         :param installation: coroutine representing an installment object returned by function load_installation_...
@@ -47,7 +48,8 @@ class AirlyDownloader:
             data['address_number'] = 'None'
         return data
 
-    def __extract_data_measurement(self, measurement):
+    @staticmethod
+    def __extract_data_measurement(measurement):
         """
         Function to collect measurements in a robust way
         :param measurement: coroutine representing a measurement object returned by function create_measurements_session_...
@@ -138,7 +140,6 @@ class AirlyDownloader:
         """
         loop = asyncio.get_event_loop()
         data = loop.run_until_complete(self.__installation_async(installation_id))
-        #data = asyncio.run(self.__installation_async(installation_id))
         if filename is not None:
             data.to_csv(filename)
         return data
@@ -180,7 +181,6 @@ class AirlyDownloader:
         """
         loop = asyncio.get_event_loop()
         data = loop.run_until_complete(self.__installations_nearest_async(latitude, longitude, max_distance_km, max_results))
-        # data = asyncio.run(self.__installations_nearest_async(latitude, longitude, max_distance_km, max_results))
         if filename is not None:
             data.to_csv(filename)
         return data
@@ -256,13 +256,10 @@ class AirlyDownloader:
         loop = asyncio.get_event_loop()
         if measurement_type == 'current':
             data = loop.run_until_complete(self.__measurement_installation_id_async_current(installation_id))
-            # data = asyncio.run(self.__measurement_installation_id_async_current(installation_id))
         elif measurement_type == 'history':
             data = loop.run_until_complete(self.__measurement_installation_id_async_history(installation_id))
-            # data = asyncio.run(self.__measurement_installation_id_async_history(installation_id))
         elif measurement_type == 'forecast':
             data = loop.run_until_complete(self.__measurement_installation_id_async_forecast(installation_id))
-            # data = asyncio.run(self.__measurement_installation_id_async_forecast(installation_id))
         else:
             raise Exception('Wrong type of measurement!')
         data['installation_id'] = installation_id
@@ -351,13 +348,10 @@ class AirlyDownloader:
         loop = asyncio.get_event_loop()
         if measurement_type == 'current':
             data = loop.run_until_complete(self.__measurement_nearest_async_current(latitude, longitude, max_distance_km))
-            # data = asyncio.run(self.__measurement_nearest_async_current(latitude, longitude, max_distance_km))
         elif measurement_type == 'history':
             data = loop.run_until_complete(self.__measurement_nearest_async_history(latitude, longitude, max_distance_km))
-            # data = asyncio.run(self.__measurement_nearest_async_history(latitude, longitude, max_distance_km))
         elif measurement_type == 'forecast':
             data = loop.run_until_complete(self.__measurement_nearest_async_forecast(latitude, longitude, max_distance_km))
-            # data = asyncio.run(self.__measurement_nearest_async_forecast(latitude, longitude, max_distance_km))
         else:
             raise Exception('Wrong type of measurement!')
         if filename is not None:
@@ -439,13 +433,10 @@ class AirlyDownloader:
         loop = asyncio.get_event_loop()
         if measurement_type == 'current':
             data = loop.run_until_complete(self.__measurement_location_async_current(latitude, longitude))
-            # data = asyncio.run(self.__measurement_location_async_current(latitude, longitude))
         elif measurement_type == 'history':
             data = loop.run_until_complete(self.__measurement_location_async_history(latitude, longitude))
-            # data = asyncio.run(self.__measurement_location_async_history(latitude, longitude))
         elif measurement_type == 'forecast':
             data = loop.run_until_complete(self.__measurement_location_async_forecast(latitude, longitude))
-            # data = asyncio.run(self.__measurement_location_async_forecast(latitude, longitude))
         else:
             raise Exception('Wrong type of measurement!')
         if filename is not None:
@@ -459,7 +450,6 @@ class AirlyDownloader:
         """
         loop = asyncio.get_event_loop()
         data = loop.run_until_complete(self.__installations_nearest_async(0, 0, 40000, -1))
-        # data = asyncio.run(self.__installations_nearest_async(0, 0, 40000, -1))
         return data['installation_id'].tolist()
 
     def get_all_installations(self, filename=None):
@@ -470,7 +460,6 @@ class AirlyDownloader:
         """
         loop = asyncio.get_event_loop()
         data = loop.run_until_complete(self.__installations_nearest_async(0, 0, 40000, -1))
-        # data = asyncio.run(self.__installations_nearest_async(0, 0, 40000, -1))
         if filename is not None:
             data.to_csv(filename)
         return data
@@ -485,7 +474,6 @@ class AirlyDownloader:
         """
         loop = asyncio.get_event_loop()
         data = loop.run_until_complete(self.__installations_nearest_async(latitude, longitude, max_distance_km, -1))
-        # data = asyncio.run(self.__installations_nearest_async(latitude, longitude, max_distance_km, -1))
         return data['installation_id'].tolist()
 
     def collect_measurements(self, filename=None):
@@ -497,13 +485,13 @@ class AirlyDownloader:
         """
         ids = self.get_installation_ids()
         frames = []
-        for id in ids:
+        for i in ids:
             print(str(id))
             start = time.time()
-            frames.append(self.measurement_installation_id(id, 'history'))
+            frames.append(self.measurement_installation_id(i, 'history'))
             end = time.time()
             elapsed = end - start
-            time.sleep(max(0, 2 - elapsed))
+            time.sleep(max(0, int(2 - elapsed) + 1))
         data = pd.concat(frames)
         if filename is not None:
             data.to_csv(filename)
@@ -520,13 +508,13 @@ class AirlyDownloader:
         """
         ids = self.get_installations_ids_location(latitude, longitude, max_distance_km)
         frames = []
-        for id in ids:
+        for i in ids:
             print(str(id))
             start = time.time()
-            frames.append(self.measurement_installation_id(id, 'history'))
+            frames.append(self.measurement_installation_id(i, 'history'))
             end = time.time()
             elapsed = end - start
-            time.sleep(max(0, 2 - elapsed))
+            time.sleep(max(0, int(2 - elapsed) + 1))
         data = pd.concat(frames)
         if filename is not None:
             data.to_csv(filename)
