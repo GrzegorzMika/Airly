@@ -1,0 +1,2 @@
+#!/bin/bash
+python -c "from gcp import download; download('airly_key.json', '/home/grzegorz/Pulpit/Projects/Airly/data', 'airly_data')"
