@@ -1,3 +1,4 @@
+import json
 import os
 import logging
 import time
@@ -10,6 +11,31 @@ def find(name, path):
     for root, dirs, files in os.walk(path):
         if name in files:
             return os.path.join(root, name)
+
+
+def parse_main(path):
+    with open(path, 'r') as f:
+        setup = json.load(f)
+
+    logdir = os.path.join(setup.get('logdir', '.'), 'log.log')
+    local_storage = setup.get('local_storage')
+    max_distance_km = setup.get('max_distance_km')
+    latitude = setup.get('latitude')
+    longitude = setup.get('longitude')
+
+    return logdir, local_storage, max_distance_km, latitude, longitude
+
+
+def parse_upload(path):
+    with open(path, 'r') as f:
+        setup = json.load(f)
+
+    logdir = os.path.join(setup.get('logdir', '.'), 'log.log')
+    local_storage = setup.get('local_storage')
+    bucket = setup.get('bucket')
+    load_break = setup.get('load_break')
+    max_tries = setup.get('max_tries')
+    return logdir, local_storage, bucket, load_break, max_tries
 
 
 def download(secret, path, bucket):

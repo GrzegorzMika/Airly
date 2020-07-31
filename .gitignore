@@ -4,3 +4,6 @@
 .Ruserdata
 Airly_API_key.json
 secretgc.json
+log.log
+*.csv
+/__pycache__/
