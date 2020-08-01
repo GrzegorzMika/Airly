@@ -9,8 +9,8 @@ RUN pip install -r /home/Airly/requirements.txt
 RUN mkdir /home/storage
 RUN mkdir /home/logdir
 
-WORKDIR /home/Airly
+WORKDIR /home
 
 COPY . .
 
-CMD "python /home/Airly/Airly/main.py"
+ENTRYPOINT ["python",  "-m", "Airly.main"]
