@@ -7,3 +7,4 @@ secretgc.json
 log.log
 *.csv
 /__pycache__/
+/storage/

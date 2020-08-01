@@ -32,10 +32,10 @@ def parse_upload(path):
 
     logdir = os.path.join(setup.get('logdir', '.'), 'log.log')
     local_storage = setup.get('local_storage')
-    bucket = setup.get('bucket')
+    bucket_name = setup.get('bucket')
     load_break = setup.get('load_break')
     max_tries = setup.get('max_tries')
-    return logdir, local_storage, bucket, load_break, max_tries
+    return logdir, local_storage, bucket_name, load_break, max_tries
 
 
 def download(secret, path, bucket):
@@ -49,18 +49,33 @@ def download(secret, path, bucket):
             blob.download_to_filename(os.path.join(path, blob.name))
 
 
-def upload(data, secret, load_break, max_tries):
+def upload_gcp(data, bucket_name, secret, load_break, max_tries):
     f = StringIO()
     data.to_csv(f, index_label=False)
     f.seek(0)
 
     for _ in range(max_tries):
         try:
-            storage_client = storage.Client.from_service_account_json(find(secret, '/home'))
-            bucket = storage_client.bucket('airly_data')
-            blob = bucket.blob(str(date.today()) + '.csv')
+            storage_client = storage.Client.from_service_account_json(secret)
+            bucket = storage_client.bucket(bucket_name)
+            blob = bucket.blob('test_' + str(date.today()) + '.csv')
             blob.upload_from_file(f, content_type='text/csv')
             break
         except Exception as err:
-            logging.error(err)
+            logging.exception(str(err))
             time.sleep(load_break)
+
+
+def list_gcp_files(bucket, secret):
+    try:
+        storage_client = storage.Client.from_service_account_json(secret)
+        blobs = storage_client.list_blobs(bucket)
+        blobs = [blob.name for blob in blobs]
+        return blobs
+    except Exception as err:
+        logging.exception(str(err))
+        return []
+
+
+def compare_files(local_list, remote_list):
+    return [f for f in local_list if f not in remote_list]

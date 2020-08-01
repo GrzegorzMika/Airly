@@ -10,7 +10,7 @@ from Airly.utils import find, parse_main
 
 
 def main():
-    logdir, local_storage, max_distance_km, latitude, longitude = parse_main('setup.json')
+    logdir, local_storage, max_distance_km, latitude, longitude = parse_main(find('setup_airly.json', '..'))
     API_key = Path(find('Airly_API_key.txt', '..')).read_text().split('\n')[0]
 
     logging.basicConfig(filename=logdir, level=logging.WARNING,
@@ -37,14 +37,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-# for _ in range(max_tries):
-#     try:
-#         storage_client = storage.Client.from_service_account_json('/home/airly/secretgc.json')
-#         bucket = storage_client.bucket('airly_data')
-#         blob = bucket.blob(str(date.today()) + '.csv')
-#         blob.upload_from_file(f, content_type='text/csv')
-#         break
-#     except Exception as err:
-#         logging.error(err)
-#         time.sleep(load_break)
