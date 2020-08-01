@@ -8,3 +8,4 @@ log.log
 *.csv
 /__pycache__/
 Airly/storage/
+/.idea/

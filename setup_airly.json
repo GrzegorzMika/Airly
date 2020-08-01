@@ -1,6 +1,6 @@
 {
-  "logdir": "Airly",
-  "local_storage": "Airly/storage",
+  "logdir": "/home/logdir",
+  "local_storage": "/home/storage",
   "bucket": "airly_data",
   "longitude": 19.938000,
   "latitude": 50.061464,

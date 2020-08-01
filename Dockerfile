@@ -1,17 +1,16 @@
-FROM arm32v7/python:3.6-buster
+FROM python:3.6-buster
 
-RUN mkdir /home/airly
-RUN mkdir /home/airly/data
+RUN apt-get update
 
-COPY Airly/__init__.py /home/airly/__init__.py
-COPY Airly/AirlyDownloader.py /home/airly/AirlyDownloader.py
-COPY Collect_data.py /home/airly/Collect_data.py
-COPY Airly_API_key.txt /home/airly/Airly_API_key.txt
-COPY Airly/requirements.txt /home/airly/requirements.txt
-COPY secretgc.json /home/airly/secretgc.json
+COPY Airly/requirements.txt /home/Airly/requirements.txt
 
-WORKDIR /home/airly
+RUN pip install -r /home/Airly/requirements.txt
 
-RUN pip install -r requirements.txt
+RUN mkdir /home/storage
+RUN mkdir /home/logdir
 
-CMD ["python", "Collect_data.py"]
+WORKDIR /home/Airly
+
+COPY . .
+
+CMD "python /home/Airly/Airly/main.py"
