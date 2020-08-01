@@ -2,9 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
-Airly_API_key.json
+Airly_API_key.txt
 secretgc.json
 log.log
 *.csv
 /__pycache__/
-/storage/
+Airly/storage/
