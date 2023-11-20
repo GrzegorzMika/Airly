@@ -14,6 +14,7 @@ import (
 	"github.com/GoogleCloudPlatform/functions-framework-go/functions"
 	"github.com/jackc/pgx/v5"
 	"github.com/jackc/pgx/v5/stdlib"
+	"golang.org/x/sync/errgroup"
 )
 
 func init() {
@@ -21,7 +22,7 @@ func init() {
 }
 
 func Collect(w http.ResponseWriter, _ *http.Request) {
-	ctx, cancel := context.WithTimeout(context.Background(), 20*time.Second)
+	ctx, cancel := context.WithTimeout(context.Background(), 3600*time.Second)
 	defer cancel()
 
 	conn, err := connectWithConnector(ctx)
@@ -31,8 +32,42 @@ func Collect(w http.ResponseWriter, _ *http.Request) {
 		return
 	}
 	defer func() { _ = conn.Close() }()
+
+	client := http.Client{
+		Timeout: 10 * time.Second,
+	}
+
+	g := errgroup.Group{}
+	g.SetLimit(10)
+
+	data := make([]Airly, 0, len(InstallationIDs))
+	for _, i := range InstallationIDs {
+		i := i
+		g.Go(func() error {
+			airly, err := makeRequest(i, client)
+			airly.InstallationID = i
+			if err != nil {
+				return err
+			}
+			data = append(data, airly)
+			return nil
+		})
+	}
+	if err := g.Wait(); err != nil {
+		w.WriteHeader(http.StatusInternalServerError)
+		_, _ = fmt.Fprintf(w, err.Error())
+		return
+	}
+	query := parseData(data)
+	err = saveData(ctx, conn, query)
+	if err != nil {
+		w.WriteHeader(http.StatusInternalServerError)
+		_, _ = fmt.Fprintf(w, err.Error())
+		return
+	}
+
 	w.WriteHeader(http.StatusOK)
-	_, _ = fmt.Fprintf(w, "Successfully connected to database")
+	_, _ = fmt.Fprintf(w, "Successfully scrapped and saved data!")
 }
 
 func connectWithConnector(ctx context.Context) (*sql.DB, error) {
@@ -72,7 +107,7 @@ func connectWithConnector(ctx context.Context) (*sql.DB, error) {
 	dbURI := stdlib.RegisterConnConfig(config)
 	dbPool, err := sql.Open("pgx", dbURI)
 	if err != nil {
-		return nil, fmt.Errorf("sql.Open: %w", err)
+		return nil, fmt.Errorf("pgx.Connect: %w", err)
 	}
 	return dbPool, nil
 }

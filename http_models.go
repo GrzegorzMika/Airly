@@ -3,9 +3,10 @@ package airly
 import "time"
 
 type Airly struct {
-	Current  Current    `json:"current"`
-	History  []History  `json:"history"`
-	Forecast []Forecast `json:"forecast"`
+	InstallationID int        `json:"installation_id"`
+	Current        Current    `json:"current"`
+	History        []History  `json:"history"`
+	Forecast       []Forecast `json:"forecast"`
 }
 type Values struct {
 	Name  string  `json:"name"`

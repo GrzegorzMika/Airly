@@ -1,1 +1,2602 @@
-[{"id":8077,"location":{"latitude":50.062006,"longitude":19.940984},"locationId":8077,"address":{"country":"Polska","city":"Kraków","street":"Mikołajska","number":null,"displayAddress1":"Kraków","displayAddress2":"Mikołajska"},"elevation":220.38,"airly":true,"sponsor":{"id":489,"name":"Chatham Financial","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/ChathamFinancial_1570109001008_473803190.jpg","link":"https://crossweb.pl/job/chatham-financial/ ","displayName":"Chatham Financial"}},{"id":103904,"location":{"latitude":50.057224,"longitude":19.933157},"locationId":57570,"address":{"country":"Polska","city":"Kraków","street":"Floriana Straszewskiego","number":null,"displayAddress1":"Kraków","displayAddress2":"Floriana Straszewskiego"},"elevation":209.81,"airly":true,"sponsor":{"id":1648,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png","link":null,"displayName":"Anonymous SmogFighter"}},{"id":86934,"location":{"latitude":50.062418,"longitude":19.928368},"locationId":9910,"address":{"country":"Polska","city":"Kraków","street":"Studencka","number":"27","displayAddress1":"Kraków","displayAddress2":"Studencka"},"elevation":209.42,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":58,"location":{"latitude":50.057447,"longitude":19.946008},"locationId":58,"address":{"country":"Polska","city":"Kraków","street":"Wrzesińska","number":null,"displayAddress1":"Kraków","displayAddress2":"Wrzesińska"},"elevation":208.99,"airly":false,"sponsor":{"id":11,"name":"GIOŚ","description":"Source","logo":"https://cdn.airly.eu/logo/GIOs.jpg","link":"http://www.gios.gov.pl","displayName":"GIOŚ"}},{"id":17,"location":{"latitude":50.057678,"longitude":19.926189},"locationId":17,"address":{"country":"Polska","city":"Kraków","street":"Aleja Zygmunta Krasińskiego","number":null,"displayAddress1":"Kraków","displayAddress2":"Aleja Zygmunta Krasińskiego"},"elevation":207.86,"airly":false,"sponsor":{"id":11,"name":"GIOŚ","description":"Source","logo":"https://cdn.airly.eu/logo/GIOs.jpg","link":"http://www.gios.gov.pl","displayName":"GIOŚ"}},{"id":101557,"location":{"latitude":50.049168,"longitude":19.946672},"locationId":55806,"address":{"country":"Polska","city":"Kraków","street":"Świętego Wawrzyńca","number":"15","displayAddress1":"Kraków","displayAddress2":"Świętego Wawrzyńca"},"elevation":205.76,"airly":true,"sponsor":{"id":1189,"name":"Muzeum Inżynierii i Techniki","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/MuzeumInynieriiiTechniki_1662688185365_2059703052.png","link":"https://www.mit.krakow.pl/","displayName":"Muzeum Inżynierii i Techniki"}},{"id":8076,"location":{"latitude":50.054907,"longitude":19.956501},"locationId":8076,"address":{"country":"Polska","city":"Kraków","street":"Masarska","number":null,"displayAddress1":"Kraków","displayAddress2":"Masarska"},"elevation":203.13,"airly":true,"sponsor":{"id":489,"name":"Chatham Financial","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/ChathamFinancial_1570109001008_473803190.jpg","link":"https://crossweb.pl/job/chatham-financial/ ","displayName":"Chatham Financial"}},{"id":37818,"location":{"latitude":50.066747,"longitude":19.962083},"locationId":9919,"address":{"country":"Polska","city":"Kraków","street":"Kielecka","number":"6","displayAddress1":"Kraków","displayAddress2":"Kielecka"},"elevation":208.91,"airly":true,"sponsor":{"id":813,"name":"Świeżo upieczona","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/wieoupieczona_1607606054772_1375093684.jpg","link":"https://www.swiezo-upieczona.com.pl/","displayName":"Świeżo upieczona"}},{"id":86949,"location":{"latitude":50.047736,"longitude":19.919646},"locationId":9895,"address":{"country":"Polska","city":"Kraków","street":"Adolfa Nowaczyńskiego","number":"6","displayAddress1":"Kraków","displayAddress2":"Adolfa Nowaczyńskiego"},"elevation":203.46,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":38444,"location":{"latitude":50.071740,"longitude":19.962317},"locationId":11239,"address":{"country":"Polska","city":"Kraków","street":"Generała Józefa Bema","number":"16","displayAddress1":"Kraków","displayAddress2":"Generała Józefa Bema"},"elevation":209.45,"airly":true,"sponsor":{"id":556,"name":"Zostań ambasadorem tego czujnika","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/Zostaambasadoremtegoczujnika_1568195322715_1084166514.png","link":"https://airly.eu/contact/","displayName":"Zostań ambasadorem tego czujnika"}},{"id":2935,"location":{"latitude":50.072968,"longitude":19.914829},"locationId":2935,"address":{"country":"Polska","city":"Kraków","street":"Królewska","number":"88","displayAddress1":"Kraków","displayAddress2":"Królewska"},"elevation":211.32,"airly":true,"sponsor":{"id":1669,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png","link":null,"displayName":"Anonymous SmogFighter"}},{"id":39735,"location":{"latitude":50.042557,"longitude":19.940229},"locationId":39364,"address":{"country":"Polska","city":"Kraków","street":"Przedwiośnie","number":"2B","displayAddress1":"Kraków","displayAddress2":"Przedwiośnie"},"elevation":203.21,"airly":true,"sponsor":{"id":1301,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png","link":null,"displayName":"Anonymous SmogFighter"}},{"id":106665,"location":{"latitude":50.043834,"longitude":19.949114},"locationId":59619,"address":{"country":"Polska","city":"Kraków","street":"Rynek Podgórski","number":"7","displayAddress1":"Kraków","displayAddress2":"Rynek Podgórski"},"elevation":207.57,"airly":true,"sponsor":{"id":767,"name":"Huawei","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Huawei_1601292158328_559620620.jpg","link":null,"displayName":"Huawei"}},{"id":86936,"location":{"latitude":50.079672,"longitude":19.949190},"locationId":9905,"address":{"country":"Polska","city":"Kraków","street":"Rogatka","number":"3","displayAddress1":"Kraków","displayAddress2":"Rogatka"},"elevation":215.60,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":8165,"location":{"latitude":50.072763,"longitude":19.911081},"locationId":8165,"address":{"country":"Polska","city":"Kraków","street":"Leopolda Staffa","number":"8","displayAddress1":"Kraków","displayAddress2":"Leopolda Staffa"},"elevation":211.04,"airly":true,"sponsor":{"id":504,"name":"Przedszkole Niepubliczne Iskierka","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/PrzedszkoleNiepubliczneIskierka_1556631443591_1484232525.jpg","link":"http://przedszkoleiskierka.pl/","displayName":"Przedszkole Niepubliczne Iskierka"}},{"id":1026,"location":{"latitude":50.038499,"longitude":19.946850},"locationId":1026,"address":{"country":"Polska","city":"Kraków","street":"Krzemionki","number":"30","displayAddress1":"Kraków","displayAddress2":"Krzemionki"},"elevation":240.90,"airly":true,"sponsor":{"id":1724,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png","link":null,"displayName":"Anonymous SmogFighter"}},{"id":86980,"location":{"latitude":50.043741,"longitude":19.966589},"locationId":9576,"address":{"country":"Polska","city":"Kraków","street":"Powstańców Wielkopolskich","number":"13G","displayAddress1":"Kraków","displayAddress2":"Powstańców Wielkopolskich"},"elevation":201.63,"airly":true,"sponsor":{"id":546,"name":"Aon","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Aon_1639990955969_1774658184.png","link":null,"displayName":"Aon"}},{"id":86941,"location":{"latitude":50.057537,"longitude":19.897547},"locationId":9896,"address":{"country":"Polska","city":"Kraków","street":"Vlastimila Hofmana","number":"22","displayAddress1":"Kraków","displayAddress2":"Vlastimila Hofmana"},"elevation":222.87,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":90118,"location":{"latitude":50.039816,"longitude":19.965351},"locationId":44928,"address":{"country":"Polska","city":"Kraków","street":"Wielicka","number":"28","displayAddress1":"Kraków","displayAddress2":"Wielicka"},"elevation":202.97,"airly":true,"sponsor":{"id":1341,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png","link":null,"displayName":"Anonymous SmogFighter"}},{"id":86909,"location":{"latitude":50.084134,"longitude":19.968416},"locationId":9897,"address":{"country":"Polska","city":"Kraków","street":"Macieja Miechowity","number":"17","displayAddress1":"Kraków","displayAddress2":"Macieja Miechowity"},"elevation":210.94,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":39577,"location":{"latitude":50.091628,"longitude":19.941265},"locationId":39249,"address":{"country":"Polska","city":"Kraków","street":"Gabriela Narutowicza","number":"4","displayAddress1":"Kraków","displayAddress2":"Gabriela Narutowicza"},"elevation":216.00,"airly":true,"sponsor":{"id":1297,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png","link":null,"displayName":"Anonymous SmogFighter"}},{"id":18410,"location":{"latitude":50.071128,"longitude":19.892226},"locationId":18410,"address":{"country":"Polska","city":"Kraków","street":"Armii Krajowej","number":"25","displayAddress1":"Kraków","displayAddress2":"Armii Krajowej"},"elevation":205.70,"airly":true,"sponsor":{"id":744,"name":"PA Digital Group","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/PADigitalGroup_1604961626929_2128189687.jpg","link":"https://www.promoagency.pl/","displayName":"PA Digital Group"}},{"id":87029,"location":{"latitude":50.066660,"longitude":19.887966},"locationId":44702,"address":{"country":"Polska","city":"Kraków","street":"Emaus","number":"57","displayAddress1":"Kraków","displayAddress2":"Emaus"},"elevation":202.81,"airly":true,"sponsor":{"id":1447,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png","link":null,"displayName":"Anonymous SmogFighter"}},{"id":86932,"location":{"latitude":50.093619,"longitude":19.924138},"locationId":9888,"address":{"country":"Polska","city":"Kraków","street":"Henryka Pachońskiego","number":"4","displayAddress1":"Kraków","displayAddress2":"Henryka Pachońskiego"},"elevation":223.96,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":60,"location":{"latitude":50.081197,"longitude":19.895358},"locationId":60,"address":{"country":"Polska","city":"Kraków","street":"Racheli","number":null,"displayAddress1":"Kraków","displayAddress2":"Racheli"},"elevation":217.76,"airly":false,"sponsor":{"id":11,"name":"GIOŚ","description":"Source","logo":"https://cdn.airly.eu/logo/GIOs.jpg","link":"http://www.gios.gov.pl","displayName":"GIOŚ"}},{"id":97303,"location":{"latitude":50.094915,"longitude":19.952995},"locationId":44968,"address":{"country":"Polska","city":"Kraków","street":null,"number":"27","displayAddress1":"Kraków","displayAddress2":null},"elevation":213.99,"airly":true,"sponsor":{"id":1234,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/Airly.png","link":null,"displayName":"Anonymous SmogFighter"}},{"id":86904,"location":{"latitude":50.073094,"longitude":19.886750},"locationId":9904,"address":{"country":"Polska","city":"Kraków","street":"Wiedeńska","number":"108","displayAddress1":"Kraków","displayAddress2":"Wiedeńska"},"elevation":205.58,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":43068,"location":{"latitude":50.026179,"longitude":19.939701},"locationId":41252,"address":{"country":"Polska","city":"Kraków","street":"Urocza","number":"12","displayAddress1":"Kraków","displayAddress2":"Urocza"},"elevation":223.59,"airly":true,"sponsor":{"id":1398,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png","link":null,"displayName":"Anonymous SmogFighter"}},{"id":10032,"location":{"latitude":50.026411,"longitude":19.950116},"locationId":10032,"address":{"country":"Polska","city":"Kraków","street":"Puszkarska","number":"7f","displayAddress1":"Kraków","displayAddress2":"Puszkarska"},"elevation":221.59,"airly":true,"sponsor":{"id":574,"name":"Alexander Mann Solutions Poland","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Puszkarskaf_1571151965400_520248453.jpg","link":"http://alexandermannsolutions.com/","displayName":"Alexander Mann Solutions Poland"}},{"id":86918,"location":{"latitude":50.025251,"longitude":19.937998},"locationId":9886,"address":{"country":"Polska","city":"Kraków","street":"Ferdynanda Kurasia","number":"19","displayAddress1":"Kraków","displayAddress2":"Ferdynanda Kurasia"},"elevation":225.82,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":86898,"location":{"latitude":50.066686,"longitude":19.997208},"locationId":9906,"address":{"country":"Polska","city":"Kraków","street":"Aleja Pokoju","number":"68","displayAddress1":"Kraków","displayAddress2":"Aleja Pokoju"},"elevation":197.66,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":80731,"location":{"latitude":50.094220,"longitude":19.905241},"locationId":2903,"address":{"country":"Polska","city":"Kraków","street":"Stelmachów","number":"125","displayAddress1":"Kraków","displayAddress2":"Stelmachów"},"elevation":224.07,"airly":true,"sponsor":{"id":1275,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png","link":null,"displayName":"Anonymous SmogFighter"}},{"id":86906,"location":{"latitude":50.099239,"longitude":19.953954},"locationId":9899,"address":{"country":"Polska","city":"Kraków","street":"Macieja Słomczyńskiego","number":"18","displayAddress1":"Kraków","displayAddress2":"Macieja Słomczyńskiego"},"elevation":240.98,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":41210,"location":{"latitude":50.033099,"longitude":19.895774},"locationId":7514,"address":{"country":"Polska","city":"Kraków","street":"Na Leszczu","number":"37","displayAddress1":"Kraków","displayAddress2":"Na Leszczu"},"elevation":212.05,"airly":true,"sponsor":{"id":1231,"name":"Grupa Nasze Pychowice","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Airly.png","link":null,"displayName":"Grupa Nasze Pychowice"}},{"id":87058,"location":{"latitude":50.066229,"longitude":19.876624},"locationId":44717,"address":{"country":"Polska","city":"Kraków","street":"Królowej Jadwigi","number":"217b","displayAddress1":"Kraków","displayAddress2":"Królowej Jadwigi"},"elevation":208.07,"airly":true,"sponsor":{"id":1618,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png","link":null,"displayName":"Anonymous SmogFighter"}},{"id":8973,"location":{"latitude":50.080690,"longitude":19.992380},"locationId":8973,"address":{"country":"Polska","city":"Kraków","street":"Profesora Michała Życzkowskiego","number":"29","displayAddress1":"Kraków","displayAddress2":"Profesora Michała Życzkowskiego"},"elevation":213.09,"airly":true,"sponsor":{"id":276,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/Smogfighter.png","link":"https://www.facebook.com/airlyeu/","displayName":"Anonymous SmogFighter"}},{"id":7956,"location":{"latitude":50.054622,"longitude":20.002049},"locationId":7956,"address":{"country":"Polska","city":"Kraków","street":"Plac Błonie-Beszcz","number":"24a","displayAddress1":"Kraków","displayAddress2":"Ciepłownicza "},"elevation":196.53,"airly":true,"sponsor":{"id":462,"name":"P.B.P. \"Łęgprzem\" Sp. z o.o.","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/PBPgprzemSpzoo_1551782087105_821199820.jpg","link":null,"displayName":"P.B.P. \"Łęgprzem\" Sp. z o.o."}},{"id":40699,"location":{"latitude":50.077142,"longitude":19.876632},"locationId":40131,"address":{"country":"Polska","city":"Kraków","street":"Zygmunta Starego","number":"1C","displayAddress1":"Kraków","displayAddress2":"Zygmunta Starego"},"elevation":208.59,"airly":true,"sponsor":{"id":1332,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png","link":null,"displayName":"Anonymous SmogFighter"}},{"id":86901,"location":{"latitude":50.044067,"longitude":19.998804},"locationId":9903,"address":{"country":"Polska","city":"Kraków","street":"Myśliwska","number":"59","displayAddress1":"Kraków","displayAddress2":"Myśliwska"},"elevation":197.37,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":33033,"location":{"latitude":50.102596,"longitude":19.917511},"locationId":2098,"address":{"country":"Polska","city":"Zielonki","street":"Fiołkowa","number":"16","displayAddress1":"Zielonki","displayAddress2":"Fiołkowa"},"elevation":228.50,"airly":true,"sponsor":{"id":238,"name":"Zielonki","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Zielonki.jpg","link":null,"displayName":"Zielonki"}},{"id":103387,"location":{"latitude":50.084843,"longitude":19.878037},"locationId":57494,"address":{"country":"Polska","city":"Kraków","street":null,"number":"36","displayAddress1":"Kraków","displayAddress2":null},"elevation":228.82,"airly":true,"sponsor":{"id":1540,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png","link":null,"displayName":"Anonymous SmogFighter"}},{"id":86915,"location":{"latitude":50.065128,"longitude":19.867504},"locationId":11349,"address":{"country":"Polska","city":"Kraków","street":"Aleja Kasztanowa","number":"9","displayAddress1":"Kraków","displayAddress2":"Aleja Kasztanowa"},"elevation":225.86,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":7634,"location":{"latitude":50.108332,"longitude":19.924004},"locationId":7634,"address":{"country":"Polska","city":"Zielonki","street":"Długopolska","number":"15","displayAddress1":"Zielonki","displayAddress2":"Długopolska"},"elevation":229.10,"airly":true,"sponsor":{"id":238,"name":"Zielonki","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Zielonki.jpg","link":null,"displayName":"Zielonki"}},{"id":90388,"location":{"latitude":50.016578,"longitude":19.909836},"locationId":45090,"address":{"country":"Polska","city":"Kraków","street":null,"number":null,"displayAddress1":"Kraków","displayAddress2":"Obozowa"},"elevation":224.67,"airly":true,"sponsor":{"id":1120,"name":"Riskonet Polska Sp. z o.o.","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/RiskonetPolskaSpzoo_1642694861853_1112900272.png","link":"https://www.riskonet.com/pl/home-pl/","displayName":"Riskonet Polska Sp. z o.o."}},{"id":32907,"location":{"latitude":50.097127,"longitude":19.992093},"locationId":3282,"address":{"country":"Polska","city":"Kraków","street":"Budziszyńska","number":"46","displayAddress1":"Kraków","displayAddress2":"Budziszyńska"},"elevation":239.07,"airly":true,"sponsor":{"id":52,"name":"Fundacja Make IT Green","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Fundacja_Make_IT_Green.jpg","link":null,"displayName":"Fundacja Make IT Green"}},{"id":10463,"location":{"latitude":50.020683,"longitude":19.893553},"locationId":10463,"address":{"country":"Polska","city":"Kraków","street":"Czerwone Maki","number":"82","displayAddress1":"Kraków","displayAddress2":"Czerwone Maki"},"elevation":222.93,"airly":true,"sponsor":{"id":592,"name":"Motorola Solutions","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Motorola_1573051245467_1421635042.jpg","link":"https://www.motorolasolutions.com/pl_pl.html ","displayName":"Motorola Solutions"}},{"id":86896,"location":{"latitude":50.085346,"longitude":20.007551},"locationId":9916,"address":{"country":"Polska","city":"Kraków","street":null,"number":"26","displayAddress1":"Kraków","displayAddress2":null},"elevation":222.43,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":11248,"location":{"latitude":50.047161,"longitude":19.861521},"locationId":11248,"address":{"country":"Polska","city":"Kraków","street":"Gajówka","number":"22","displayAddress1":"Kraków","displayAddress2":"Gajówka"},"elevation":233.49,"airly":true,"sponsor":{"id":608,"name":"milenium.it","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/mileniumit_1574937300827_1478985851.jpg","link":null,"displayName":"milenium.it"}},{"id":18,"location":{"latitude":50.010575,"longitude":19.949189},"locationId":18,"address":{"country":"Polska","city":"Kraków","street":"Franciszka Bujaka","number":"15","displayAddress1":"Kraków","displayAddress2":"Franciszka Bujaka"},"elevation":224.34,"airly":false,"sponsor":{"id":11,"name":"GIOŚ","description":"Source","logo":"https://cdn.airly.eu/logo/GIOs.jpg","link":"http://www.gios.gov.pl","displayName":"GIOŚ"}},{"id":42665,"location":{"latitude":50.010301,"longitude":19.950811},"locationId":40904,"address":{"country":"Polska","city":"Kraków","street":"Franciszka Bujaka","number":"15","displayAddress1":"Kraków","displayAddress2":"Franciszka Bujaka"},"elevation":227.61,"airly":true,"sponsor":{"id":944,"name":"SP 149 im. Marszałka Józefa Piłsudskiego","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/SPimMarszakaJzefaPisudskiego_1620310826269_628095467.png","link":"https://sp149.krakow.pl/","displayName":"SP 149 im. Marszałka Józefa Piłsudskiego"}},{"id":40571,"location":{"latitude":50.067233,"longitude":19.857424},"locationId":40015,"address":{"country":"Polska","city":"Kraków","street":"Jana i Józefa Kotlarczyków","number":"4","displayAddress1":"Kraków","displayAddress2":"Jana i Józefa Kotlarczyków"},"elevation":232.10,"airly":true,"sponsor":{"id":1381,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png","link":null,"displayName":"Anonymous SmogFighter"}},{"id":90552,"location":{"latitude":50.018006,"longitude":19.983935},"locationId":9887,"address":{"country":"Polska","city":"Kraków","street":"Na Kozłówce","number":"14","displayAddress1":"Kraków","displayAddress2":"Na Kozłówce"},"elevation":238.73,"airly":true,"sponsor":{"id":241,"name":"Airly Ambassador","description":"","logo":"https://cdn.airly.eu/logo/Ambasador_Airly.png","link":"https://www.facebook.com/airlyeu/","displayName":"Airly Ambassador"}},{"id":86899,"location":{"latitude":50.098304,"longitude":19.879415},"locationId":9917,"address":{"country":"Polska","city":"Kraków","street":"Stawowa","number":"204","displayAddress1":"Kraków","displayAddress2":"Stawowa"},"elevation":249.34,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":103311,"location":{"latitude":50.022022,"longitude":19.994606},"locationId":57423,"address":{"country":"Polska","city":"Kraków","street":"Snycerska","number":"41","displayAddress1":"Kraków","displayAddress2":"Snycerska"},"elevation":209.85,"airly":true,"sponsor":{"id":1539,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png","link":null,"displayName":"Anonymous SmogFighter"}},{"id":86905,"location":{"latitude":50.108024,"longitude":19.896124},"locationId":9889,"address":{"country":"Polska","city":"Kraków","street":"Azaliowa","number":"2a","displayAddress1":"Kraków","displayAddress2":"Azaliowa"},"elevation":227.17,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":5651,"location":{"latitude":50.116700,"longitude":19.914290},"locationId":5651,"address":{"country":"Polska","city":"Zielonki","street":"Księdza Jana Michalika","number":null,"displayAddress1":"Zielonki","displayAddress2":"Księdza Jana Michalika"},"elevation":245.20,"airly":true,"sponsor":{"id":195,"name":"SRGZ","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/SRGZ.png","link":null,"displayName":"SRGZ"}},{"id":2513,"location":{"latitude":50.117763,"longitude":19.920770},"locationId":2513,"address":{"country":"Polska","city":"Zielonki","street":"Krakowskie Przedmieście","number":"116","displayAddress1":"Zielonki","displayAddress2":"Krakowskie Przedmieście"},"elevation":230.53,"airly":true,"sponsor":{"id":238,"name":"Zielonki","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Zielonki.jpg","link":null,"displayName":"Zielonki"}},{"id":36605,"location":{"latitude":50.118583,"longitude":19.926746},"locationId":251,"address":{"country":"Polska","city":"Zielonki","street":"Galicyjska","number":"17A","displayAddress1":"Zielonki","displayAddress2":"Galicyjska"},"elevation":235.49,"airly":true,"sponsor":{"id":238,"name":"Zielonki","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Zielonki.jpg","link":null,"displayName":"Zielonki"}},{"id":7456,"location":{"latitude":50.116770,"longitude":19.965575},"locationId":7456,"address":{"country":"Polska","city":"Węgrzce","street":"Forteczna","number":"3","displayAddress1":"Węgrzce","displayAddress2":"Forteczna"},"elevation":276.62,"airly":true,"sponsor":{"id":238,"name":"Zielonki","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Zielonki.jpg","link":null,"displayName":"Zielonki"}},{"id":5624,"location":{"latitude":50.001317,"longitude":19.925144},"locationId":5624,"address":{"country":"Polska","city":"Kraków","street":"Armii \"Kraków\"","number":"76","displayAddress1":"Kraków","displayAddress2":"Armii \"Kraków\""},"elevation":237.68,"airly":true,"sponsor":{"id":1239,"name":"Szkoła podstawowa nr 97 Kraków","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Airly.png","link":null,"displayName":"Szkoła podstawowa nr 97 Kraków"}},{"id":87014,"location":{"latitude":50.115496,"longitude":19.982130},"locationId":237,"address":{"country":"Polska","city":"Węgrzce","street":"B5","number":null,"displayAddress1":"Węgrzce","displayAddress2":"B5"},"elevation":242.44,"airly":true,"sponsor":{"id":238,"name":"Zielonki","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Zielonki.jpg","link":null,"displayName":"Zielonki"}},{"id":11473,"location":{"latitude":50.029336,"longitude":19.855833},"locationId":11473,"address":{"country":"Polska","city":"Kraków","street":"Tyniecka","number":"126c","displayAddress1":"Kraków","displayAddress2":"Tyniecka"},"elevation":204.34,"airly":true,"sponsor":{"id":636,"name":"TCO","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/TCO_1584022024369_149497539.jpg","link":null,"displayName":"TCO"}},{"id":98153,"location":{"latitude":50.120482,"longitude":19.972246},"locationId":239,"address":{"country":"Polska","city":"Węgrzce","street":"A3","number":"1","displayAddress1":"Węgrzce","displayAddress2":"A3"},"elevation":264.39,"airly":true,"sponsor":{"id":238,"name":"Zielonki","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Zielonki.jpg","link":null,"displayName":"Zielonki"}},{"id":115128,"location":{"latitude":50.098508,"longitude":20.018269},"locationId":59,"address":{"country":"Polska","city":"Kraków","street":"Popielidów","number":null,"displayAddress1":"Kraków","displayAddress2":"Popielidów"},"elevation":235.03,"airly":false,"sponsor":{"id":11,"name":"GIOŚ","description":"Source","logo":"https://cdn.airly.eu/logo/GIOs.jpg","link":"http://www.gios.gov.pl","displayName":"GIOŚ"}},{"id":86917,"location":{"latitude":49.999615,"longitude":19.966073},"locationId":9892,"address":{"country":"Polska","city":"Kraków","street":"Wyżynna","number":"30","displayAddress1":"Kraków","displayAddress2":"Wyżynna"},"elevation":235.34,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":7617,"location":{"latitude":50.126232,"longitude":19.954121},"locationId":7617,"address":{"country":"Polska","city":"Bibice","street":"Tadeusza Kościuszki","number":"5","displayAddress1":"Bibice","displayAddress2":"Tadeusza Kościuszki"},"elevation":257.93,"airly":true,"sponsor":{"id":238,"name":"Zielonki","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Zielonki.jpg","link":null,"displayName":"Zielonki"}},{"id":39433,"location":{"latitude":49.996571,"longitude":19.957157},"locationId":627,"address":{"country":"Polska","city":"Kraków","street":"Stepowa","number":"8","displayAddress1":"Kraków","displayAddress2":"Stepowa"},"elevation":256.48,"airly":true,"sponsor":{"id":277,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/Smogfighter.png","link":"https://www.facebook.com/airlyeu/","displayName":"Anonymous SmogFighter"}},{"id":109003,"location":{"latitude":50.067421,"longitude":19.834386},"locationId":60564,"address":{"country":"Polska","city":"Kraków","street":"Bolesława Leśmiana","number":"5e","displayAddress1":"Kraków","displayAddress2":"Bolesława Leśmiana"},"elevation":243.22,"airly":true,"sponsor":{"id":1277,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png","link":null,"displayName":"Anonymous SmogFighter"}},{"id":86800,"location":{"latitude":49.998480,"longitude":19.902375},"locationId":15572,"address":{"country":"Polska","city":"Kraków","street":"Mieczykowa","number":null,"displayAddress1":"Kraków","displayAddress2":"Mieczykowa"},"elevation":243.07,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":8979,"location":{"latitude":50.126026,"longitude":19.905455},"locationId":8979,"address":{"country":"Polska","city":"Pękowice","street":"Pod Fortem","number":"6","displayAddress1":"Pękowice","displayAddress2":"Pod Fortem"},"elevation":254.39,"airly":true,"sponsor":{"id":238,"name":"Zielonki","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Zielonki.jpg","link":null,"displayName":"Zielonki"}},{"id":86914,"location":{"latitude":50.020586,"longitude":20.022960},"locationId":9891,"address":{"country":"Polska","city":"Kraków","street":"Wilhelma i Jana Ripperów","number":"11","displayAddress1":"Kraków","displayAddress2":"Wilhelma i Jana Ripperów"},"elevation":199.94,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":86920,"location":{"latitude":49.993368,"longitude":19.946925},"locationId":11333,"address":{"country":"Polska","city":"Kraków","street":"Myślenicka","number":null,"displayAddress1":"Kraków","displayAddress2":"Myślenicka"},"elevation":253.36,"airly":true,"sponsor":{"id":325,"name":"Budżet Obywatelski Miasta Krakowa edycja 2017","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/BudetObywatelskiMiastaKrakowaedycja_1534774335503_210307458.jpg","link":null,"displayName":"Budżet Obywatelski Miasta Krakowa edycja 2017"}},{"id":238,"location":{"latitude":50.110831,"longitude":20.015155},"locationId":238,"address":{"country":"Polska","city":"Batowice","street":"Karola Wojtyły","number":"72","displayAddress1":"Batowice","displayAddress2":"Karola Wojtyły"},"elevation":249.81,"airly":true,"sponsor":{"id":238,"name":"Zielonki","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Zielonki.jpg","link":null,"displayName":"Zielonki"}},{"id":7758,"location":{"latitude":49.991442,"longitude":19.936792},"locationId":7758,"address":{"country":"Polska","city":"Kraków","street":"Lusińska","number":"17","displayAddress1":"Kraków","displayAddress2":"Lusińska"},"elevation":241.24,"airly":false,"sponsor":{"id":11,"name":"GIOŚ","description":"Source","logo":"https://cdn.airly.eu/logo/GIOs.jpg","link":"http://www.gios.gov.pl","displayName":"GIOŚ"}},{"id":36654,"location":{"latitude":50.131359,"longitude":19.951436},"locationId":245,"address":{"country":"Polska","city":"Bibice","street":"Lipowa","number":"39","displayAddress1":"Bibice","displayAddress2":"Lipowa"},"elevation":266.20,"airly":true,"sponsor":{"id":238,"name":"Zielonki","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Zielonki.jpg","link":null,"displayName":"Zielonki"}},{"id":36475,"location":{"latitude":50.127424,"longitude":19.898802},"locationId":247,"address":{"country":"Polska","city":"Pękowice","street":"Ojcowska","number":"17","displayAddress1":"Pękowice","displayAddress2":"Ojcowska"},"elevation":275.66,"airly":true,"sponsor":{"id":238,"name":"Zielonki","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Zielonki.jpg","link":null,"displayName":"Zielonki"}},{"id":9077,"location":{"latitude":50.128409,"longitude":19.973662},"locationId":9077,"address":{"country":"Polska","city":"Węgrzce","street":"C21","number":"1","displayAddress1":"Węgrzce","displayAddress2":"C21"},"elevation":297.50,"airly":true,"sponsor":{"id":238,"name":"Zielonki","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Zielonki.jpg","link":null,"displayName":"Zielonki"}},{"id":102630,"location":{"latitude":50.123593,"longitude":19.994082},"locationId":233,"address":{"country":"Polska","city":"Bosutów","street":"Krakowska","number":"20","displayAddress1":"Bosutów","displayAddress2":"Krakowska"},"elevation":257.97,"airly":true,"sponsor":{"id":238,"name":"Zielonki","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Zielonki.jpg","link":null,"displayName":"Zielonki"}},{"id":7844,"location":{"latitude":50.054260,"longitude":19.826462},"locationId":7844,"address":{"country":"Polska","city":"Kraków","street":"Orla","number":null,"displayAddress1":"Kraków","displayAddress2":"Orla, OA UJ"},"elevation":291.38,"airly":true,"sponsor":{"id":270,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/Smogfighter.png","link":"https://www.facebook.com/airlyeu/","displayName":"Anonymous SmogFighter"}},{"id":86910,"location":{"latitude":49.991052,"longitude":19.913596},"locationId":11332,"address":{"country":"Polska","city":"Kraków","street":"Kłuszyńska","number":"46","displayAddress1":"Kraków","displayAddress2":"Kłuszyńska"},"elevation":234.64,"airly":true,"sponsor":{"id":325,"name":"Budżet Obywatelski Miasta Krakowa edycja 2017","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/BudetObywatelskiMiastaKrakowaedycja_1534774335503_210307458.jpg","link":null,"displayName":"Budżet Obywatelski Miasta Krakowa edycja 2017"}},{"id":86925,"location":{"latitude":50.020756,"longitude":19.844076},"locationId":9913,"address":{"country":"Polska","city":"Kraków","street":"Dąbrowa","number":"30b","displayAddress1":"Kraków","displayAddress2":"Dąbrowa"},"elevation":205.85,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":6070,"location":{"latitude":50.118809,"longitude":20.009399},"locationId":6070,"address":{"country":"Polska","city":"Dziekanowice","street":"Słoneczna","number":"22","displayAddress1":"Dziekanowice","displayAddress2":"Słoneczna"},"elevation":270.61,"airly":true,"sponsor":{"id":238,"name":"Zielonki","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Zielonki.jpg","link":null,"displayName":"Zielonki"}},{"id":86961,"location":{"latitude":50.042476,"longitude":19.826993},"locationId":9923,"address":{"country":"Polska","city":"Kraków","street":"Dworna","number":"46","displayAddress1":"Kraków","displayAddress2":"Dworna"},"elevation":228.21,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":19,"location":{"latitude":50.069308,"longitude":20.053492},"locationId":19,"address":{"country":"Polska","city":"Kraków","street":"Bulwarowa","number":"59","displayAddress1":"Kraków","displayAddress2":"Bulwarowa"},"elevation":203.87,"airly":false,"sponsor":{"id":11,"name":"GIOŚ","description":"Source","logo":"https://cdn.airly.eu/logo/GIOs.jpg","link":"http://www.gios.gov.pl","displayName":"GIOŚ"}},{"id":86998,"location":{"latitude":50.133024,"longitude":19.973249},"locationId":241,"address":{"country":"Polska","city":"Bosutów","street":"Jodłowa","number":"5","displayAddress1":"Bosutów","displayAddress2":"Jodłowa"},"elevation":279.92,"airly":true,"sponsor":{"id":238,"name":"Zielonki","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Zielonki.jpg","link":null,"displayName":"Zielonki"}},{"id":6147,"location":{"latitude":50.133579,"longitude":19.905573},"locationId":6147,"address":{"country":"Polska","city":"Zielonki","street":"Krakowskie Przedmieście","number":"312","displayAddress1":"Zielonki","displayAddress2":"Krakowskie Przedmieście"},"elevation":242.98,"airly":true,"sponsor":{"id":238,"name":"Zielonki","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Zielonki.jpg","link":null,"displayName":"Zielonki"}},{"id":33053,"location":{"latitude":50.099709,"longitude":19.837011},"locationId":493,"address":{"country":"Polska","city":"Rząska","street":"Szkolna","number":null,"displayAddress1":"Rząska","displayAddress2":"Szkolna"},"elevation":251.92,"airly":true,"sponsor":{"id":229,"name":"Zabierzów","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Zabierzow.jpg","link":null,"displayName":"Zabierzów"}},{"id":38615,"location":{"latitude":49.985979,"longitude":19.931702},"locationId":38350,"address":{"country":"Polska","city":"Kraków","street":"Adama Krzyżanowskiego","number":"41","displayAddress1":"Kraków","displayAddress2":"Adama Krzyżanowskiego"},"elevation":255.74,"airly":true,"sponsor":{"id":1362,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png","link":null,"displayName":"Anonymous SmogFighter"}},{"id":7683,"location":{"latitude":50.139077,"longitude":19.926778},"locationId":7683,"address":{"country":"Polska","city":"Garlica Murowana","street":"Garlicka","number":"85","displayAddress1":"Garlica Murowana","displayAddress2":"Garlicka"},"elevation":255.72,"airly":true,"sponsor":{"id":238,"name":"Zielonki","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Zielonki.jpg","link":null,"displayName":"Zielonki"}},{"id":5709,"location":{"latitude":50.118934,"longitude":19.855883},"locationId":5709,"address":{"country":"Polska","city":"Modlniczka","street":"Świętej Faustyny","number":null,"displayAddress1":"Modlniczka","displayAddress2":"Świętej Faustyny"},"elevation":251.32,"airly":true,"sponsor":{"id":225,"name":"Wielka Wieś","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Wielka_Wies.jpg","link":null,"displayName":"Wielka Wieś"}},{"id":18769,"location":{"latitude":50.108296,"longitude":19.838550},"locationId":16688,"address":{"country":"Polska","city":"Modlniczka","street":"Kasztanowa","number":"14","displayAddress1":"Modlniczka","displayAddress2":"Kasztanowa"},"elevation":231.14,"airly":true,"sponsor":{"id":225,"name":"Wielka Wieś","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Wielka_Wies.jpg","link":null,"displayName":"Wielka Wieś"}},{"id":86902,"location":{"latitude":50.083454,"longitude":20.057153},"locationId":13257,"address":{"country":"Polska","city":"Kraków","street":"Wąwozowa","number":"11j","displayAddress1":"Kraków","displayAddress2":"Wąwozowa"},"elevation":208.16,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":101102,"location":{"latitude":50.129391,"longitude":19.871290},"locationId":31070,"address":{"country":"Polska","city":"Modlnica","street":"Jurajska","number":"5","displayAddress1":"Modlnica","displayAddress2":"Jurajska"},"elevation":292.45,"airly":true,"sponsor":{"id":225,"name":"Wielka Wieś","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Wielka_Wies.jpg","link":null,"displayName":"Wielka Wieś"}},{"id":12001,"location":{"latitude":50.127182,"longitude":19.864904},"locationId":12001,"address":{"country":"Polska","city":"Modlnica","street":"Świętego Wojciecha","number":"37A","displayAddress1":"Modlnica","displayAddress2":"Świętego Wojciecha"},"elevation":277.23,"airly":true,"sponsor":{"id":275,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/Smogfighter.png","link":"https://www.facebook.com/airlyeu/","displayName":"Anonymous SmogFighter"}},{"id":18768,"location":{"latitude":50.109742,"longitude":19.833999},"locationId":18766,"address":{"country":"Polska","city":"Modlniczka","street":"Spokojna","number":"6","displayAddress1":"Modlniczka","displayAddress2":"Spokojna"},"elevation":224.54,"airly":true,"sponsor":{"id":225,"name":"Wielka Wieś","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Wielka_Wies.jpg","link":null,"displayName":"Wielka Wieś"}},{"id":86963,"location":{"latitude":50.107288,"longitude":20.045784},"locationId":11995,"address":{"country":"Polska","city":"Kraków","street":"Gustawa Morcinka","number":"23","displayAddress1":"Kraków","displayAddress2":"Gustawa Morcinka"},"elevation":222.25,"airly":true,"sponsor":{"id":7,"name":"KrakówOddycha","description":"Airly Sensor is part of action","logo":"https://cdn.airly.eu/logo/KrakowOddycha.jpg","link":"https://www.facebook.com/airlyeu/","displayName":"KrakówOddycha"}},{"id":6068,"location":{"latitude":50.117668,"longitude":20.033667},"locationId":6068,"address":{"country":"Polska","city":"Raciborowice","street":"Wawelska","number":"6","displayAddress1":"Raciborowice","displayAddress2":"Wawelska"},"elevation":235.45,"airly":true,"sponsor":{"id":127,"name":"Michałowice","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Michalowice.jpg","link":null,"displayName":"Michałowice"}},{"id":82510,"location":{"latitude":50.107919,"longitude":19.829807},"locationId":44475,"address":{"country":"Polska","city":"Zabierzów","street":"Krakowska","number":"368","displayAddress1":"Zabierzów","displayAddress2":"Krakowska"},"elevation":224.28,"airly":true,"sponsor":{"id":1264,"name":"Anonymous SmogFighter","description":"","logo":"https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png","link":null,"displayName":"Anonymous SmogFighter"}},{"id":7915,"location":{"latitude":50.129762,"longitude":19.862389},"locationId":7915,"address":{"country":"Polska","city":"Modlnica","street":"Sportowa","number":null,"displayAddress1":"Modlnica","displayAddress2":"Sportowa"},"elevation":275.57,"airly":true,"sponsor":{"id":225,"name":"Wielka Wieś","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Wielka_Wies.jpg","link":null,"displayName":"Wielka Wieś"}},{"id":101104,"location":{"latitude":50.139211,"longitude":19.886935},"locationId":16687,"address":{"country":"Polska","city":"Giebułtów","street":"Władysława Hermana","number":null,"displayAddress1":"Giebułtów","displayAddress2":"Władysława Hermana"},"elevation":293.67,"airly":true,"sponsor":{"id":225,"name":"Wielka Wieś","description":"Airly Sensor's sponsor","logo":"https://cdn.airly.eu/logo/Wielka_Wies.jpg","link":null,"displayName":"Wielka Wieś"}}]
+[
+  {
+    "id": 8077,
+    "location": {
+      "latitude": 50.062006,
+      "longitude": 19.940984
+    },
+    "locationId": 8077,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Mikołajska",
+      "number": null,
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Mikołajska"
+    },
+    "elevation": 220.38,
+    "airly": true,
+    "sponsor": {
+      "id": 489,
+      "name": "Chatham Financial",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/ChathamFinancial_1570109001008_473803190.jpg",
+      "link": "https://crossweb.pl/job/chatham-financial/ ",
+      "displayName": "Chatham Financial"
+    }
+  },
+  {
+    "id": 103904,
+    "location": {
+      "latitude": 50.057224,
+      "longitude": 19.933157
+    },
+    "locationId": 57570,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Floriana Straszewskiego",
+      "number": null,
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Floriana Straszewskiego"
+    },
+    "elevation": 209.81,
+    "airly": true,
+    "sponsor": {
+      "id": 1648,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png",
+      "link": null,
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 86934,
+    "location": {
+      "latitude": 50.062418,
+      "longitude": 19.928368
+    },
+    "locationId": 9910,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Studencka",
+      "number": "27",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Studencka"
+    },
+    "elevation": 209.42,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 58,
+    "location": {
+      "latitude": 50.057447,
+      "longitude": 19.946008
+    },
+    "locationId": 58,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Wrzesińska",
+      "number": null,
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Wrzesińska"
+    },
+    "elevation": 208.99,
+    "airly": false,
+    "sponsor": {
+      "id": 11,
+      "name": "GIOŚ",
+      "description": "Source",
+      "logo": "https://cdn.airly.eu/logo/GIOs.jpg",
+      "link": "http://www.gios.gov.pl",
+      "displayName": "GIOŚ"
+    }
+  },
+  {
+    "id": 17,
+    "location": {
+      "latitude": 50.057678,
+      "longitude": 19.926189
+    },
+    "locationId": 17,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Aleja Zygmunta Krasińskiego",
+      "number": null,
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Aleja Zygmunta Krasińskiego"
+    },
+    "elevation": 207.86,
+    "airly": false,
+    "sponsor": {
+      "id": 11,
+      "name": "GIOŚ",
+      "description": "Source",
+      "logo": "https://cdn.airly.eu/logo/GIOs.jpg",
+      "link": "http://www.gios.gov.pl",
+      "displayName": "GIOŚ"
+    }
+  },
+  {
+    "id": 101557,
+    "location": {
+      "latitude": 50.049168,
+      "longitude": 19.946672
+    },
+    "locationId": 55806,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Świętego Wawrzyńca",
+      "number": "15",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Świętego Wawrzyńca"
+    },
+    "elevation": 205.76,
+    "airly": true,
+    "sponsor": {
+      "id": 1189,
+      "name": "Muzeum Inżynierii i Techniki",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/MuzeumInynieriiiTechniki_1662688185365_2059703052.png",
+      "link": "https://www.mit.krakow.pl/",
+      "displayName": "Muzeum Inżynierii i Techniki"
+    }
+  },
+  {
+    "id": 8076,
+    "location": {
+      "latitude": 50.054907,
+      "longitude": 19.956501
+    },
+    "locationId": 8076,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Masarska",
+      "number": null,
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Masarska"
+    },
+    "elevation": 203.13,
+    "airly": true,
+    "sponsor": {
+      "id": 489,
+      "name": "Chatham Financial",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/ChathamFinancial_1570109001008_473803190.jpg",
+      "link": "https://crossweb.pl/job/chatham-financial/ ",
+      "displayName": "Chatham Financial"
+    }
+  },
+  {
+    "id": 37818,
+    "location": {
+      "latitude": 50.066747,
+      "longitude": 19.962083
+    },
+    "locationId": 9919,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Kielecka",
+      "number": "6",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Kielecka"
+    },
+    "elevation": 208.91,
+    "airly": true,
+    "sponsor": {
+      "id": 813,
+      "name": "Świeżo upieczona",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/wieoupieczona_1607606054772_1375093684.jpg",
+      "link": "https://www.swiezo-upieczona.com.pl/",
+      "displayName": "Świeżo upieczona"
+    }
+  },
+  {
+    "id": 86949,
+    "location": {
+      "latitude": 50.047736,
+      "longitude": 19.919646
+    },
+    "locationId": 9895,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Adolfa Nowaczyńskiego",
+      "number": "6",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Adolfa Nowaczyńskiego"
+    },
+    "elevation": 203.46,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 38444,
+    "location": {
+      "latitude": 50.071740,
+      "longitude": 19.962317
+    },
+    "locationId": 11239,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Generała Józefa Bema",
+      "number": "16",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Generała Józefa Bema"
+    },
+    "elevation": 209.45,
+    "airly": true,
+    "sponsor": {
+      "id": 556,
+      "name": "Zostań ambasadorem tego czujnika",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/Zostaambasadoremtegoczujnika_1568195322715_1084166514.png",
+      "link": "https://airly.eu/contact/",
+      "displayName": "Zostań ambasadorem tego czujnika"
+    }
+  },
+  {
+    "id": 2935,
+    "location": {
+      "latitude": 50.072968,
+      "longitude": 19.914829
+    },
+    "locationId": 2935,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Królewska",
+      "number": "88",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Królewska"
+    },
+    "elevation": 211.32,
+    "airly": true,
+    "sponsor": {
+      "id": 1669,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png",
+      "link": null,
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 39735,
+    "location": {
+      "latitude": 50.042557,
+      "longitude": 19.940229
+    },
+    "locationId": 39364,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Przedwiośnie",
+      "number": "2B",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Przedwiośnie"
+    },
+    "elevation": 203.21,
+    "airly": true,
+    "sponsor": {
+      "id": 1301,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png",
+      "link": null,
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 106665,
+    "location": {
+      "latitude": 50.043834,
+      "longitude": 19.949114
+    },
+    "locationId": 59619,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Rynek Podgórski",
+      "number": "7",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Rynek Podgórski"
+    },
+    "elevation": 207.57,
+    "airly": true,
+    "sponsor": {
+      "id": 767,
+      "name": "Huawei",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Huawei_1601292158328_559620620.jpg",
+      "link": null,
+      "displayName": "Huawei"
+    }
+  },
+  {
+    "id": 86936,
+    "location": {
+      "latitude": 50.079672,
+      "longitude": 19.949190
+    },
+    "locationId": 9905,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Rogatka",
+      "number": "3",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Rogatka"
+    },
+    "elevation": 215.60,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 8165,
+    "location": {
+      "latitude": 50.072763,
+      "longitude": 19.911081
+    },
+    "locationId": 8165,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Leopolda Staffa",
+      "number": "8",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Leopolda Staffa"
+    },
+    "elevation": 211.04,
+    "airly": true,
+    "sponsor": {
+      "id": 504,
+      "name": "Przedszkole Niepubliczne Iskierka",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/PrzedszkoleNiepubliczneIskierka_1556631443591_1484232525.jpg",
+      "link": "http://przedszkoleiskierka.pl/",
+      "displayName": "Przedszkole Niepubliczne Iskierka"
+    }
+  },
+  {
+    "id": 1026,
+    "location": {
+      "latitude": 50.038499,
+      "longitude": 19.946850
+    },
+    "locationId": 1026,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Krzemionki",
+      "number": "30",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Krzemionki"
+    },
+    "elevation": 240.90,
+    "airly": true,
+    "sponsor": {
+      "id": 1724,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png",
+      "link": null,
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 86980,
+    "location": {
+      "latitude": 50.043741,
+      "longitude": 19.966589
+    },
+    "locationId": 9576,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Powstańców Wielkopolskich",
+      "number": "13G",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Powstańców Wielkopolskich"
+    },
+    "elevation": 201.63,
+    "airly": true,
+    "sponsor": {
+      "id": 546,
+      "name": "Aon",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Aon_1639990955969_1774658184.png",
+      "link": null,
+      "displayName": "Aon"
+    }
+  },
+  {
+    "id": 86941,
+    "location": {
+      "latitude": 50.057537,
+      "longitude": 19.897547
+    },
+    "locationId": 9896,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Vlastimila Hofmana",
+      "number": "22",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Vlastimila Hofmana"
+    },
+    "elevation": 222.87,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 90118,
+    "location": {
+      "latitude": 50.039816,
+      "longitude": 19.965351
+    },
+    "locationId": 44928,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Wielicka",
+      "number": "28",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Wielicka"
+    },
+    "elevation": 202.97,
+    "airly": true,
+    "sponsor": {
+      "id": 1341,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png",
+      "link": null,
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 86909,
+    "location": {
+      "latitude": 50.084134,
+      "longitude": 19.968416
+    },
+    "locationId": 9897,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Macieja Miechowity",
+      "number": "17",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Macieja Miechowity"
+    },
+    "elevation": 210.94,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 39577,
+    "location": {
+      "latitude": 50.091628,
+      "longitude": 19.941265
+    },
+    "locationId": 39249,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Gabriela Narutowicza",
+      "number": "4",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Gabriela Narutowicza"
+    },
+    "elevation": 216.00,
+    "airly": true,
+    "sponsor": {
+      "id": 1297,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png",
+      "link": null,
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 18410,
+    "location": {
+      "latitude": 50.071128,
+      "longitude": 19.892226
+    },
+    "locationId": 18410,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Armii Krajowej",
+      "number": "25",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Armii Krajowej"
+    },
+    "elevation": 205.70,
+    "airly": true,
+    "sponsor": {
+      "id": 744,
+      "name": "PA Digital Group",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/PADigitalGroup_1604961626929_2128189687.jpg",
+      "link": "https://www.promoagency.pl/",
+      "displayName": "PA Digital Group"
+    }
+  },
+  {
+    "id": 87029,
+    "location": {
+      "latitude": 50.066660,
+      "longitude": 19.887966
+    },
+    "locationId": 44702,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Emaus",
+      "number": "57",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Emaus"
+    },
+    "elevation": 202.81,
+    "airly": true,
+    "sponsor": {
+      "id": 1447,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png",
+      "link": null,
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 86932,
+    "location": {
+      "latitude": 50.093619,
+      "longitude": 19.924138
+    },
+    "locationId": 9888,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Henryka Pachońskiego",
+      "number": "4",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Henryka Pachońskiego"
+    },
+    "elevation": 223.96,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 60,
+    "location": {
+      "latitude": 50.081197,
+      "longitude": 19.895358
+    },
+    "locationId": 60,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Racheli",
+      "number": null,
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Racheli"
+    },
+    "elevation": 217.76,
+    "airly": false,
+    "sponsor": {
+      "id": 11,
+      "name": "GIOŚ",
+      "description": "Source",
+      "logo": "https://cdn.airly.eu/logo/GIOs.jpg",
+      "link": "http://www.gios.gov.pl",
+      "displayName": "GIOŚ"
+    }
+  },
+  {
+    "id": 97303,
+    "location": {
+      "latitude": 50.094915,
+      "longitude": 19.952995
+    },
+    "locationId": 44968,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": null,
+      "number": "27",
+      "displayAddress1": "Kraków",
+      "displayAddress2": null
+    },
+    "elevation": 213.99,
+    "airly": true,
+    "sponsor": {
+      "id": 1234,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/Airly.png",
+      "link": null,
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 86904,
+    "location": {
+      "latitude": 50.073094,
+      "longitude": 19.886750
+    },
+    "locationId": 9904,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Wiedeńska",
+      "number": "108",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Wiedeńska"
+    },
+    "elevation": 205.58,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 43068,
+    "location": {
+      "latitude": 50.026179,
+      "longitude": 19.939701
+    },
+    "locationId": 41252,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Urocza",
+      "number": "12",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Urocza"
+    },
+    "elevation": 223.59,
+    "airly": true,
+    "sponsor": {
+      "id": 1398,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png",
+      "link": null,
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 10032,
+    "location": {
+      "latitude": 50.026411,
+      "longitude": 19.950116
+    },
+    "locationId": 10032,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Puszkarska",
+      "number": "7f",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Puszkarska"
+    },
+    "elevation": 221.59,
+    "airly": true,
+    "sponsor": {
+      "id": 574,
+      "name": "Alexander Mann Solutions Poland",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Puszkarskaf_1571151965400_520248453.jpg",
+      "link": "http://alexandermannsolutions.com/",
+      "displayName": "Alexander Mann Solutions Poland"
+    }
+  },
+  {
+    "id": 86918,
+    "location": {
+      "latitude": 50.025251,
+      "longitude": 19.937998
+    },
+    "locationId": 9886,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Ferdynanda Kurasia",
+      "number": "19",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Ferdynanda Kurasia"
+    },
+    "elevation": 225.82,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 86898,
+    "location": {
+      "latitude": 50.066686,
+      "longitude": 19.997208
+    },
+    "locationId": 9906,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Aleja Pokoju",
+      "number": "68",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Aleja Pokoju"
+    },
+    "elevation": 197.66,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 80731,
+    "location": {
+      "latitude": 50.094220,
+      "longitude": 19.905241
+    },
+    "locationId": 2903,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Stelmachów",
+      "number": "125",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Stelmachów"
+    },
+    "elevation": 224.07,
+    "airly": true,
+    "sponsor": {
+      "id": 1275,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png",
+      "link": null,
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 86906,
+    "location": {
+      "latitude": 50.099239,
+      "longitude": 19.953954
+    },
+    "locationId": 9899,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Macieja Słomczyńskiego",
+      "number": "18",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Macieja Słomczyńskiego"
+    },
+    "elevation": 240.98,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 41210,
+    "location": {
+      "latitude": 50.033099,
+      "longitude": 19.895774
+    },
+    "locationId": 7514,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Na Leszczu",
+      "number": "37",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Na Leszczu"
+    },
+    "elevation": 212.05,
+    "airly": true,
+    "sponsor": {
+      "id": 1231,
+      "name": "Grupa Nasze Pychowice",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Airly.png",
+      "link": null,
+      "displayName": "Grupa Nasze Pychowice"
+    }
+  },
+  {
+    "id": 87058,
+    "location": {
+      "latitude": 50.066229,
+      "longitude": 19.876624
+    },
+    "locationId": 44717,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Królowej Jadwigi",
+      "number": "217b",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Królowej Jadwigi"
+    },
+    "elevation": 208.07,
+    "airly": true,
+    "sponsor": {
+      "id": 1618,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png",
+      "link": null,
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 8973,
+    "location": {
+      "latitude": 50.080690,
+      "longitude": 19.992380
+    },
+    "locationId": 8973,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Profesora Michała Życzkowskiego",
+      "number": "29",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Profesora Michała Życzkowskiego"
+    },
+    "elevation": 213.09,
+    "airly": true,
+    "sponsor": {
+      "id": 276,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/Smogfighter.png",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 7956,
+    "location": {
+      "latitude": 50.054622,
+      "longitude": 20.002049
+    },
+    "locationId": 7956,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Plac Błonie-Beszcz",
+      "number": "24a",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Ciepłownicza "
+    },
+    "elevation": 196.53,
+    "airly": true,
+    "sponsor": {
+      "id": 462,
+      "name": "P.B.P. \"Łęgprzem\" Sp. z o.o.",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/PBPgprzemSpzoo_1551782087105_821199820.jpg",
+      "link": null,
+      "displayName": "P.B.P. \"Łęgprzem\" Sp. z o.o."
+    }
+  },
+  {
+    "id": 40699,
+    "location": {
+      "latitude": 50.077142,
+      "longitude": 19.876632
+    },
+    "locationId": 40131,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Zygmunta Starego",
+      "number": "1C",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Zygmunta Starego"
+    },
+    "elevation": 208.59,
+    "airly": true,
+    "sponsor": {
+      "id": 1332,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png",
+      "link": null,
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 86901,
+    "location": {
+      "latitude": 50.044067,
+      "longitude": 19.998804
+    },
+    "locationId": 9903,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Myśliwska",
+      "number": "59",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Myśliwska"
+    },
+    "elevation": 197.37,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 33033,
+    "location": {
+      "latitude": 50.102596,
+      "longitude": 19.917511
+    },
+    "locationId": 2098,
+    "address": {
+      "country": "Polska",
+      "city": "Zielonki",
+      "street": "Fiołkowa",
+      "number": "16",
+      "displayAddress1": "Zielonki",
+      "displayAddress2": "Fiołkowa"
+    },
+    "elevation": 228.50,
+    "airly": true,
+    "sponsor": {
+      "id": 238,
+      "name": "Zielonki",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Zielonki.jpg",
+      "link": null,
+      "displayName": "Zielonki"
+    }
+  },
+  {
+    "id": 103387,
+    "location": {
+      "latitude": 50.084843,
+      "longitude": 19.878037
+    },
+    "locationId": 57494,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": null,
+      "number": "36",
+      "displayAddress1": "Kraków",
+      "displayAddress2": null
+    },
+    "elevation": 228.82,
+    "airly": true,
+    "sponsor": {
+      "id": 1540,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png",
+      "link": null,
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 86915,
+    "location": {
+      "latitude": 50.065128,
+      "longitude": 19.867504
+    },
+    "locationId": 11349,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Aleja Kasztanowa",
+      "number": "9",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Aleja Kasztanowa"
+    },
+    "elevation": 225.86,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 7634,
+    "location": {
+      "latitude": 50.108332,
+      "longitude": 19.924004
+    },
+    "locationId": 7634,
+    "address": {
+      "country": "Polska",
+      "city": "Zielonki",
+      "street": "Długopolska",
+      "number": "15",
+      "displayAddress1": "Zielonki",
+      "displayAddress2": "Długopolska"
+    },
+    "elevation": 229.10,
+    "airly": true,
+    "sponsor": {
+      "id": 238,
+      "name": "Zielonki",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Zielonki.jpg",
+      "link": null,
+      "displayName": "Zielonki"
+    }
+  },
+  {
+    "id": 90388,
+    "location": {
+      "latitude": 50.016578,
+      "longitude": 19.909836
+    },
+    "locationId": 45090,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": null,
+      "number": null,
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Obozowa"
+    },
+    "elevation": 224.67,
+    "airly": true,
+    "sponsor": {
+      "id": 1120,
+      "name": "Riskonet Polska Sp. z o.o.",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/RiskonetPolskaSpzoo_1642694861853_1112900272.png",
+      "link": "https://www.riskonet.com/pl/home-pl/",
+      "displayName": "Riskonet Polska Sp. z o.o."
+    }
+  },
+  {
+    "id": 32907,
+    "location": {
+      "latitude": 50.097127,
+      "longitude": 19.992093
+    },
+    "locationId": 3282,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Budziszyńska",
+      "number": "46",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Budziszyńska"
+    },
+    "elevation": 239.07,
+    "airly": true,
+    "sponsor": {
+      "id": 52,
+      "name": "Fundacja Make IT Green",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Fundacja_Make_IT_Green.jpg",
+      "link": null,
+      "displayName": "Fundacja Make IT Green"
+    }
+  },
+  {
+    "id": 10463,
+    "location": {
+      "latitude": 50.020683,
+      "longitude": 19.893553
+    },
+    "locationId": 10463,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Czerwone Maki",
+      "number": "82",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Czerwone Maki"
+    },
+    "elevation": 222.93,
+    "airly": true,
+    "sponsor": {
+      "id": 592,
+      "name": "Motorola Solutions",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Motorola_1573051245467_1421635042.jpg",
+      "link": "https://www.motorolasolutions.com/pl_pl.html ",
+      "displayName": "Motorola Solutions"
+    }
+  },
+  {
+    "id": 86896,
+    "location": {
+      "latitude": 50.085346,
+      "longitude": 20.007551
+    },
+    "locationId": 9916,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": null,
+      "number": "26",
+      "displayAddress1": "Kraków",
+      "displayAddress2": null
+    },
+    "elevation": 222.43,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 11248,
+    "location": {
+      "latitude": 50.047161,
+      "longitude": 19.861521
+    },
+    "locationId": 11248,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Gajówka",
+      "number": "22",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Gajówka"
+    },
+    "elevation": 233.49,
+    "airly": true,
+    "sponsor": {
+      "id": 608,
+      "name": "milenium.it",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/mileniumit_1574937300827_1478985851.jpg",
+      "link": null,
+      "displayName": "milenium.it"
+    }
+  },
+  {
+    "id": 18,
+    "location": {
+      "latitude": 50.010575,
+      "longitude": 19.949189
+    },
+    "locationId": 18,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Franciszka Bujaka",
+      "number": "15",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Franciszka Bujaka"
+    },
+    "elevation": 224.34,
+    "airly": false,
+    "sponsor": {
+      "id": 11,
+      "name": "GIOŚ",
+      "description": "Source",
+      "logo": "https://cdn.airly.eu/logo/GIOs.jpg",
+      "link": "http://www.gios.gov.pl",
+      "displayName": "GIOŚ"
+    }
+  },
+  {
+    "id": 42665,
+    "location": {
+      "latitude": 50.010301,
+      "longitude": 19.950811
+    },
+    "locationId": 40904,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Franciszka Bujaka",
+      "number": "15",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Franciszka Bujaka"
+    },
+    "elevation": 227.61,
+    "airly": true,
+    "sponsor": {
+      "id": 944,
+      "name": "SP 149 im. Marszałka Józefa Piłsudskiego",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/SPimMarszakaJzefaPisudskiego_1620310826269_628095467.png",
+      "link": "https://sp149.krakow.pl/",
+      "displayName": "SP 149 im. Marszałka Józefa Piłsudskiego"
+    }
+  },
+  {
+    "id": 40571,
+    "location": {
+      "latitude": 50.067233,
+      "longitude": 19.857424
+    },
+    "locationId": 40015,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Jana i Józefa Kotlarczyków",
+      "number": "4",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Jana i Józefa Kotlarczyków"
+    },
+    "elevation": 232.10,
+    "airly": true,
+    "sponsor": {
+      "id": 1381,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png",
+      "link": null,
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 90552,
+    "location": {
+      "latitude": 50.018006,
+      "longitude": 19.983935
+    },
+    "locationId": 9887,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Na Kozłówce",
+      "number": "14",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Na Kozłówce"
+    },
+    "elevation": 238.73,
+    "airly": true,
+    "sponsor": {
+      "id": 241,
+      "name": "Airly Ambassador",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/Ambasador_Airly.png",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "Airly Ambassador"
+    }
+  },
+  {
+    "id": 86899,
+    "location": {
+      "latitude": 50.098304,
+      "longitude": 19.879415
+    },
+    "locationId": 9917,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Stawowa",
+      "number": "204",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Stawowa"
+    },
+    "elevation": 249.34,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 103311,
+    "location": {
+      "latitude": 50.022022,
+      "longitude": 19.994606
+    },
+    "locationId": 57423,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Snycerska",
+      "number": "41",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Snycerska"
+    },
+    "elevation": 209.85,
+    "airly": true,
+    "sponsor": {
+      "id": 1539,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png",
+      "link": null,
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 86905,
+    "location": {
+      "latitude": 50.108024,
+      "longitude": 19.896124
+    },
+    "locationId": 9889,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Azaliowa",
+      "number": "2a",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Azaliowa"
+    },
+    "elevation": 227.17,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 5651,
+    "location": {
+      "latitude": 50.116700,
+      "longitude": 19.914290
+    },
+    "locationId": 5651,
+    "address": {
+      "country": "Polska",
+      "city": "Zielonki",
+      "street": "Księdza Jana Michalika",
+      "number": null,
+      "displayAddress1": "Zielonki",
+      "displayAddress2": "Księdza Jana Michalika"
+    },
+    "elevation": 245.20,
+    "airly": true,
+    "sponsor": {
+      "id": 195,
+      "name": "SRGZ",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/SRGZ.png",
+      "link": null,
+      "displayName": "SRGZ"
+    }
+  },
+  {
+    "id": 2513,
+    "location": {
+      "latitude": 50.117763,
+      "longitude": 19.920770
+    },
+    "locationId": 2513,
+    "address": {
+      "country": "Polska",
+      "city": "Zielonki",
+      "street": "Krakowskie Przedmieście",
+      "number": "116",
+      "displayAddress1": "Zielonki",
+      "displayAddress2": "Krakowskie Przedmieście"
+    },
+    "elevation": 230.53,
+    "airly": true,
+    "sponsor": {
+      "id": 238,
+      "name": "Zielonki",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Zielonki.jpg",
+      "link": null,
+      "displayName": "Zielonki"
+    }
+  },
+  {
+    "id": 36605,
+    "location": {
+      "latitude": 50.118583,
+      "longitude": 19.926746
+    },
+    "locationId": 251,
+    "address": {
+      "country": "Polska",
+      "city": "Zielonki",
+      "street": "Galicyjska",
+      "number": "17A",
+      "displayAddress1": "Zielonki",
+      "displayAddress2": "Galicyjska"
+    },
+    "elevation": 235.49,
+    "airly": true,
+    "sponsor": {
+      "id": 238,
+      "name": "Zielonki",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Zielonki.jpg",
+      "link": null,
+      "displayName": "Zielonki"
+    }
+  },
+  {
+    "id": 7456,
+    "location": {
+      "latitude": 50.116770,
+      "longitude": 19.965575
+    },
+    "locationId": 7456,
+    "address": {
+      "country": "Polska",
+      "city": "Węgrzce",
+      "street": "Forteczna",
+      "number": "3",
+      "displayAddress1": "Węgrzce",
+      "displayAddress2": "Forteczna"
+    },
+    "elevation": 276.62,
+    "airly": true,
+    "sponsor": {
+      "id": 238,
+      "name": "Zielonki",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Zielonki.jpg",
+      "link": null,
+      "displayName": "Zielonki"
+    }
+  },
+  {
+    "id": 5624,
+    "location": {
+      "latitude": 50.001317,
+      "longitude": 19.925144
+    },
+    "locationId": 5624,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Armii \"Kraków\"",
+      "number": "76",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Armii \"Kraków\""
+    },
+    "elevation": 237.68,
+    "airly": true,
+    "sponsor": {
+      "id": 1239,
+      "name": "Szkoła podstawowa nr 97 Kraków",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Airly.png",
+      "link": null,
+      "displayName": "Szkoła podstawowa nr 97 Kraków"
+    }
+  },
+  {
+    "id": 87014,
+    "location": {
+      "latitude": 50.115496,
+      "longitude": 19.982130
+    },
+    "locationId": 237,
+    "address": {
+      "country": "Polska",
+      "city": "Węgrzce",
+      "street": "B5",
+      "number": null,
+      "displayAddress1": "Węgrzce",
+      "displayAddress2": "B5"
+    },
+    "elevation": 242.44,
+    "airly": true,
+    "sponsor": {
+      "id": 238,
+      "name": "Zielonki",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Zielonki.jpg",
+      "link": null,
+      "displayName": "Zielonki"
+    }
+  },
+  {
+    "id": 11473,
+    "location": {
+      "latitude": 50.029336,
+      "longitude": 19.855833
+    },
+    "locationId": 11473,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Tyniecka",
+      "number": "126c",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Tyniecka"
+    },
+    "elevation": 204.34,
+    "airly": true,
+    "sponsor": {
+      "id": 636,
+      "name": "TCO",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/TCO_1584022024369_149497539.jpg",
+      "link": null,
+      "displayName": "TCO"
+    }
+  },
+  {
+    "id": 98153,
+    "location": {
+      "latitude": 50.120482,
+      "longitude": 19.972246
+    },
+    "locationId": 239,
+    "address": {
+      "country": "Polska",
+      "city": "Węgrzce",
+      "street": "A3",
+      "number": "1",
+      "displayAddress1": "Węgrzce",
+      "displayAddress2": "A3"
+    },
+    "elevation": 264.39,
+    "airly": true,
+    "sponsor": {
+      "id": 238,
+      "name": "Zielonki",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Zielonki.jpg",
+      "link": null,
+      "displayName": "Zielonki"
+    }
+  },
+  {
+    "id": 115128,
+    "location": {
+      "latitude": 50.098508,
+      "longitude": 20.018269
+    },
+    "locationId": 59,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Popielidów",
+      "number": null,
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Popielidów"
+    },
+    "elevation": 235.03,
+    "airly": false,
+    "sponsor": {
+      "id": 11,
+      "name": "GIOŚ",
+      "description": "Source",
+      "logo": "https://cdn.airly.eu/logo/GIOs.jpg",
+      "link": "http://www.gios.gov.pl",
+      "displayName": "GIOŚ"
+    }
+  },
+  {
+    "id": 86917,
+    "location": {
+      "latitude": 49.999615,
+      "longitude": 19.966073
+    },
+    "locationId": 9892,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Wyżynna",
+      "number": "30",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Wyżynna"
+    },
+    "elevation": 235.34,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 7617,
+    "location": {
+      "latitude": 50.126232,
+      "longitude": 19.954121
+    },
+    "locationId": 7617,
+    "address": {
+      "country": "Polska",
+      "city": "Bibice",
+      "street": "Tadeusza Kościuszki",
+      "number": "5",
+      "displayAddress1": "Bibice",
+      "displayAddress2": "Tadeusza Kościuszki"
+    },
+    "elevation": 257.93,
+    "airly": true,
+    "sponsor": {
+      "id": 238,
+      "name": "Zielonki",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Zielonki.jpg",
+      "link": null,
+      "displayName": "Zielonki"
+    }
+  },
+  {
+    "id": 39433,
+    "location": {
+      "latitude": 49.996571,
+      "longitude": 19.957157
+    },
+    "locationId": 627,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Stepowa",
+      "number": "8",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Stepowa"
+    },
+    "elevation": 256.48,
+    "airly": true,
+    "sponsor": {
+      "id": 277,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/Smogfighter.png",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 109003,
+    "location": {
+      "latitude": 50.067421,
+      "longitude": 19.834386
+    },
+    "locationId": 60564,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Bolesława Leśmiana",
+      "number": "5e",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Bolesława Leśmiana"
+    },
+    "elevation": 243.22,
+    "airly": true,
+    "sponsor": {
+      "id": 1277,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png",
+      "link": null,
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 86800,
+    "location": {
+      "latitude": 49.998480,
+      "longitude": 19.902375
+    },
+    "locationId": 15572,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Mieczykowa",
+      "number": null,
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Mieczykowa"
+    },
+    "elevation": 243.07,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 8979,
+    "location": {
+      "latitude": 50.126026,
+      "longitude": 19.905455
+    },
+    "locationId": 8979,
+    "address": {
+      "country": "Polska",
+      "city": "Pękowice",
+      "street": "Pod Fortem",
+      "number": "6",
+      "displayAddress1": "Pękowice",
+      "displayAddress2": "Pod Fortem"
+    },
+    "elevation": 254.39,
+    "airly": true,
+    "sponsor": {
+      "id": 238,
+      "name": "Zielonki",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Zielonki.jpg",
+      "link": null,
+      "displayName": "Zielonki"
+    }
+  },
+  {
+    "id": 86914,
+    "location": {
+      "latitude": 50.020586,
+      "longitude": 20.022960
+    },
+    "locationId": 9891,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Wilhelma i Jana Ripperów",
+      "number": "11",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Wilhelma i Jana Ripperów"
+    },
+    "elevation": 199.94,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 86920,
+    "location": {
+      "latitude": 49.993368,
+      "longitude": 19.946925
+    },
+    "locationId": 11333,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Myślenicka",
+      "number": null,
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Myślenicka"
+    },
+    "elevation": 253.36,
+    "airly": true,
+    "sponsor": {
+      "id": 325,
+      "name": "Budżet Obywatelski Miasta Krakowa edycja 2017",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/BudetObywatelskiMiastaKrakowaedycja_1534774335503_210307458.jpg",
+      "link": null,
+      "displayName": "Budżet Obywatelski Miasta Krakowa edycja 2017"
+    }
+  },
+  {
+    "id": 238,
+    "location": {
+      "latitude": 50.110831,
+      "longitude": 20.015155
+    },
+    "locationId": 238,
+    "address": {
+      "country": "Polska",
+      "city": "Batowice",
+      "street": "Karola Wojtyły",
+      "number": "72",
+      "displayAddress1": "Batowice",
+      "displayAddress2": "Karola Wojtyły"
+    },
+    "elevation": 249.81,
+    "airly": true,
+    "sponsor": {
+      "id": 238,
+      "name": "Zielonki",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Zielonki.jpg",
+      "link": null,
+      "displayName": "Zielonki"
+    }
+  },
+  {
+    "id": 7758,
+    "location": {
+      "latitude": 49.991442,
+      "longitude": 19.936792
+    },
+    "locationId": 7758,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Lusińska",
+      "number": "17",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Lusińska"
+    },
+    "elevation": 241.24,
+    "airly": false,
+    "sponsor": {
+      "id": 11,
+      "name": "GIOŚ",
+      "description": "Source",
+      "logo": "https://cdn.airly.eu/logo/GIOs.jpg",
+      "link": "http://www.gios.gov.pl",
+      "displayName": "GIOŚ"
+    }
+  },
+  {
+    "id": 36654,
+    "location": {
+      "latitude": 50.131359,
+      "longitude": 19.951436
+    },
+    "locationId": 245,
+    "address": {
+      "country": "Polska",
+      "city": "Bibice",
+      "street": "Lipowa",
+      "number": "39",
+      "displayAddress1": "Bibice",
+      "displayAddress2": "Lipowa"
+    },
+    "elevation": 266.20,
+    "airly": true,
+    "sponsor": {
+      "id": 238,
+      "name": "Zielonki",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Zielonki.jpg",
+      "link": null,
+      "displayName": "Zielonki"
+    }
+  },
+  {
+    "id": 36475,
+    "location": {
+      "latitude": 50.127424,
+      "longitude": 19.898802
+    },
+    "locationId": 247,
+    "address": {
+      "country": "Polska",
+      "city": "Pękowice",
+      "street": "Ojcowska",
+      "number": "17",
+      "displayAddress1": "Pękowice",
+      "displayAddress2": "Ojcowska"
+    },
+    "elevation": 275.66,
+    "airly": true,
+    "sponsor": {
+      "id": 238,
+      "name": "Zielonki",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Zielonki.jpg",
+      "link": null,
+      "displayName": "Zielonki"
+    }
+  },
+  {
+    "id": 9077,
+    "location": {
+      "latitude": 50.128409,
+      "longitude": 19.973662
+    },
+    "locationId": 9077,
+    "address": {
+      "country": "Polska",
+      "city": "Węgrzce",
+      "street": "C21",
+      "number": "1",
+      "displayAddress1": "Węgrzce",
+      "displayAddress2": "C21"
+    },
+    "elevation": 297.50,
+    "airly": true,
+    "sponsor": {
+      "id": 238,
+      "name": "Zielonki",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Zielonki.jpg",
+      "link": null,
+      "displayName": "Zielonki"
+    }
+  },
+  {
+    "id": 102630,
+    "location": {
+      "latitude": 50.123593,
+      "longitude": 19.994082
+    },
+    "locationId": 233,
+    "address": {
+      "country": "Polska",
+      "city": "Bosutów",
+      "street": "Krakowska",
+      "number": "20",
+      "displayAddress1": "Bosutów",
+      "displayAddress2": "Krakowska"
+    },
+    "elevation": 257.97,
+    "airly": true,
+    "sponsor": {
+      "id": 238,
+      "name": "Zielonki",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Zielonki.jpg",
+      "link": null,
+      "displayName": "Zielonki"
+    }
+  },
+  {
+    "id": 7844,
+    "location": {
+      "latitude": 50.054260,
+      "longitude": 19.826462
+    },
+    "locationId": 7844,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Orla",
+      "number": null,
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Orla, OA UJ"
+    },
+    "elevation": 291.38,
+    "airly": true,
+    "sponsor": {
+      "id": 270,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/Smogfighter.png",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 86910,
+    "location": {
+      "latitude": 49.991052,
+      "longitude": 19.913596
+    },
+    "locationId": 11332,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Kłuszyńska",
+      "number": "46",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Kłuszyńska"
+    },
+    "elevation": 234.64,
+    "airly": true,
+    "sponsor": {
+      "id": 325,
+      "name": "Budżet Obywatelski Miasta Krakowa edycja 2017",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/BudetObywatelskiMiastaKrakowaedycja_1534774335503_210307458.jpg",
+      "link": null,
+      "displayName": "Budżet Obywatelski Miasta Krakowa edycja 2017"
+    }
+  },
+  {
+    "id": 86925,
+    "location": {
+      "latitude": 50.020756,
+      "longitude": 19.844076
+    },
+    "locationId": 9913,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Dąbrowa",
+      "number": "30b",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Dąbrowa"
+    },
+    "elevation": 205.85,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 6070,
+    "location": {
+      "latitude": 50.118809,
+      "longitude": 20.009399
+    },
+    "locationId": 6070,
+    "address": {
+      "country": "Polska",
+      "city": "Dziekanowice",
+      "street": "Słoneczna",
+      "number": "22",
+      "displayAddress1": "Dziekanowice",
+      "displayAddress2": "Słoneczna"
+    },
+    "elevation": 270.61,
+    "airly": true,
+    "sponsor": {
+      "id": 238,
+      "name": "Zielonki",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Zielonki.jpg",
+      "link": null,
+      "displayName": "Zielonki"
+    }
+  },
+  {
+    "id": 86961,
+    "location": {
+      "latitude": 50.042476,
+      "longitude": 19.826993
+    },
+    "locationId": 9923,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Dworna",
+      "number": "46",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Dworna"
+    },
+    "elevation": 228.21,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 19,
+    "location": {
+      "latitude": 50.069308,
+      "longitude": 20.053492
+    },
+    "locationId": 19,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Bulwarowa",
+      "number": "59",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Bulwarowa"
+    },
+    "elevation": 203.87,
+    "airly": false,
+    "sponsor": {
+      "id": 11,
+      "name": "GIOŚ",
+      "description": "Source",
+      "logo": "https://cdn.airly.eu/logo/GIOs.jpg",
+      "link": "http://www.gios.gov.pl",
+      "displayName": "GIOŚ"
+    }
+  },
+  {
+    "id": 86998,
+    "location": {
+      "latitude": 50.133024,
+      "longitude": 19.973249
+    },
+    "locationId": 241,
+    "address": {
+      "country": "Polska",
+      "city": "Bosutów",
+      "street": "Jodłowa",
+      "number": "5",
+      "displayAddress1": "Bosutów",
+      "displayAddress2": "Jodłowa"
+    },
+    "elevation": 279.92,
+    "airly": true,
+    "sponsor": {
+      "id": 238,
+      "name": "Zielonki",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Zielonki.jpg",
+      "link": null,
+      "displayName": "Zielonki"
+    }
+  },
+  {
+    "id": 6147,
+    "location": {
+      "latitude": 50.133579,
+      "longitude": 19.905573
+    },
+    "locationId": 6147,
+    "address": {
+      "country": "Polska",
+      "city": "Zielonki",
+      "street": "Krakowskie Przedmieście",
+      "number": "312",
+      "displayAddress1": "Zielonki",
+      "displayAddress2": "Krakowskie Przedmieście"
+    },
+    "elevation": 242.98,
+    "airly": true,
+    "sponsor": {
+      "id": 238,
+      "name": "Zielonki",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Zielonki.jpg",
+      "link": null,
+      "displayName": "Zielonki"
+    }
+  },
+  {
+    "id": 33053,
+    "location": {
+      "latitude": 50.099709,
+      "longitude": 19.837011
+    },
+    "locationId": 493,
+    "address": {
+      "country": "Polska",
+      "city": "Rząska",
+      "street": "Szkolna",
+      "number": null,
+      "displayAddress1": "Rząska",
+      "displayAddress2": "Szkolna"
+    },
+    "elevation": 251.92,
+    "airly": true,
+    "sponsor": {
+      "id": 229,
+      "name": "Zabierzów",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Zabierzow.jpg",
+      "link": null,
+      "displayName": "Zabierzów"
+    }
+  },
+  {
+    "id": 38615,
+    "location": {
+      "latitude": 49.985979,
+      "longitude": 19.931702
+    },
+    "locationId": 38350,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Adama Krzyżanowskiego",
+      "number": "41",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Adama Krzyżanowskiego"
+    },
+    "elevation": 255.74,
+    "airly": true,
+    "sponsor": {
+      "id": 1362,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png",
+      "link": null,
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 7683,
+    "location": {
+      "latitude": 50.139077,
+      "longitude": 19.926778
+    },
+    "locationId": 7683,
+    "address": {
+      "country": "Polska",
+      "city": "Garlica Murowana",
+      "street": "Garlicka",
+      "number": "85",
+      "displayAddress1": "Garlica Murowana",
+      "displayAddress2": "Garlicka"
+    },
+    "elevation": 255.72,
+    "airly": true,
+    "sponsor": {
+      "id": 238,
+      "name": "Zielonki",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Zielonki.jpg",
+      "link": null,
+      "displayName": "Zielonki"
+    }
+  },
+  {
+    "id": 5709,
+    "location": {
+      "latitude": 50.118934,
+      "longitude": 19.855883
+    },
+    "locationId": 5709,
+    "address": {
+      "country": "Polska",
+      "city": "Modlniczka",
+      "street": "Świętej Faustyny",
+      "number": null,
+      "displayAddress1": "Modlniczka",
+      "displayAddress2": "Świętej Faustyny"
+    },
+    "elevation": 251.32,
+    "airly": true,
+    "sponsor": {
+      "id": 225,
+      "name": "Wielka Wieś",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Wielka_Wies.jpg",
+      "link": null,
+      "displayName": "Wielka Wieś"
+    }
+  },
+  {
+    "id": 18769,
+    "location": {
+      "latitude": 50.108296,
+      "longitude": 19.838550
+    },
+    "locationId": 16688,
+    "address": {
+      "country": "Polska",
+      "city": "Modlniczka",
+      "street": "Kasztanowa",
+      "number": "14",
+      "displayAddress1": "Modlniczka",
+      "displayAddress2": "Kasztanowa"
+    },
+    "elevation": 231.14,
+    "airly": true,
+    "sponsor": {
+      "id": 225,
+      "name": "Wielka Wieś",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Wielka_Wies.jpg",
+      "link": null,
+      "displayName": "Wielka Wieś"
+    }
+  },
+  {
+    "id": 86902,
+    "location": {
+      "latitude": 50.083454,
+      "longitude": 20.057153
+    },
+    "locationId": 13257,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Wąwozowa",
+      "number": "11j",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Wąwozowa"
+    },
+    "elevation": 208.16,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 101102,
+    "location": {
+      "latitude": 50.129391,
+      "longitude": 19.871290
+    },
+    "locationId": 31070,
+    "address": {
+      "country": "Polska",
+      "city": "Modlnica",
+      "street": "Jurajska",
+      "number": "5",
+      "displayAddress1": "Modlnica",
+      "displayAddress2": "Jurajska"
+    },
+    "elevation": 292.45,
+    "airly": true,
+    "sponsor": {
+      "id": 225,
+      "name": "Wielka Wieś",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Wielka_Wies.jpg",
+      "link": null,
+      "displayName": "Wielka Wieś"
+    }
+  },
+  {
+    "id": 12001,
+    "location": {
+      "latitude": 50.127182,
+      "longitude": 19.864904
+    },
+    "locationId": 12001,
+    "address": {
+      "country": "Polska",
+      "city": "Modlnica",
+      "street": "Świętego Wojciecha",
+      "number": "37A",
+      "displayAddress1": "Modlnica",
+      "displayAddress2": "Świętego Wojciecha"
+    },
+    "elevation": 277.23,
+    "airly": true,
+    "sponsor": {
+      "id": 275,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/Smogfighter.png",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 18768,
+    "location": {
+      "latitude": 50.109742,
+      "longitude": 19.833999
+    },
+    "locationId": 18766,
+    "address": {
+      "country": "Polska",
+      "city": "Modlniczka",
+      "street": "Spokojna",
+      "number": "6",
+      "displayAddress1": "Modlniczka",
+      "displayAddress2": "Spokojna"
+    },
+    "elevation": 224.54,
+    "airly": true,
+    "sponsor": {
+      "id": 225,
+      "name": "Wielka Wieś",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Wielka_Wies.jpg",
+      "link": null,
+      "displayName": "Wielka Wieś"
+    }
+  },
+  {
+    "id": 86963,
+    "location": {
+      "latitude": 50.107288,
+      "longitude": 20.045784
+    },
+    "locationId": 11995,
+    "address": {
+      "country": "Polska",
+      "city": "Kraków",
+      "street": "Gustawa Morcinka",
+      "number": "23",
+      "displayAddress1": "Kraków",
+      "displayAddress2": "Gustawa Morcinka"
+    },
+    "elevation": 222.25,
+    "airly": true,
+    "sponsor": {
+      "id": 7,
+      "name": "KrakówOddycha",
+      "description": "Airly Sensor is part of action",
+      "logo": "https://cdn.airly.eu/logo/KrakowOddycha.jpg",
+      "link": "https://www.facebook.com/airlyeu/",
+      "displayName": "KrakówOddycha"
+    }
+  },
+  {
+    "id": 6068,
+    "location": {
+      "latitude": 50.117668,
+      "longitude": 20.033667
+    },
+    "locationId": 6068,
+    "address": {
+      "country": "Polska",
+      "city": "Raciborowice",
+      "street": "Wawelska",
+      "number": "6",
+      "displayAddress1": "Raciborowice",
+      "displayAddress2": "Wawelska"
+    },
+    "elevation": 235.45,
+    "airly": true,
+    "sponsor": {
+      "id": 127,
+      "name": "Michałowice",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Michalowice.jpg",
+      "link": null,
+      "displayName": "Michałowice"
+    }
+  },
+  {
+    "id": 82510,
+    "location": {
+      "latitude": 50.107919,
+      "longitude": 19.829807
+    },
+    "locationId": 44475,
+    "address": {
+      "country": "Polska",
+      "city": "Zabierzów",
+      "street": "Krakowska",
+      "number": "368",
+      "displayAddress1": "Zabierzów",
+      "displayAddress2": "Krakowska"
+    },
+    "elevation": 224.28,
+    "airly": true,
+    "sponsor": {
+      "id": 1264,
+      "name": "Anonymous SmogFighter",
+      "description": "",
+      "logo": "https://cdn.airly.eu/logo/AnonymousSmogfighter_1609285731335_397067556.png",
+      "link": null,
+      "displayName": "Anonymous SmogFighter"
+    }
+  },
+  {
+    "id": 7915,
+    "location": {
+      "latitude": 50.129762,
+      "longitude": 19.862389
+    },
+    "locationId": 7915,
+    "address": {
+      "country": "Polska",
+      "city": "Modlnica",
+      "street": "Sportowa",
+      "number": null,
+      "displayAddress1": "Modlnica",
+      "displayAddress2": "Sportowa"
+    },
+    "elevation": 275.57,
+    "airly": true,
+    "sponsor": {
+      "id": 225,
+      "name": "Wielka Wieś",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Wielka_Wies.jpg",
+      "link": null,
+      "displayName": "Wielka Wieś"
+    }
+  },
+  {
+    "id": 101104,
+    "location": {
+      "latitude": 50.139211,
+      "longitude": 19.886935
+    },
+    "locationId": 16687,
+    "address": {
+      "country": "Polska",
+      "city": "Giebułtów",
+      "street": "Władysława Hermana",
+      "number": null,
+      "displayAddress1": "Giebułtów",
+      "displayAddress2": "Władysława Hermana"
+    },
+    "elevation": 293.67,
+    "airly": true,
+    "sponsor": {
+      "id": 225,
+      "name": "Wielka Wieś",
+      "description": "Airly Sensor's sponsor",
+      "logo": "https://cdn.airly.eu/logo/Wielka_Wies.jpg",
+      "link": null,
+      "displayName": "Wielka Wieś"
+    }
+  }
+]
